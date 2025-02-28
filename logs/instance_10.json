@@ -1,0 +1,107 @@
+[
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:52:38.517304",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:52:51.359183",
+        "site": "https://www.learnpython.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Apply what you've learned"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:52:57.567828",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:53:32.721304",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:53:35.242711",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 68.721238
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:53:38.691205",
+        "site": "https://www.reddit.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.reddit.com"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:53:54.920586",
+        "site": "https://www.reddit.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Stop defending poor performance"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:54:16.579575",
+        "site": "https://www.reddit.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "No text"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:54:35.625462",
+        "site": "https://www.reddit.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 60.355127
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:54:36.734472",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:54:42.094643",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 9,
+        "timestamp": "2025-02-28T21:55:21.295895",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 45.652839
+        }
+    }
+]

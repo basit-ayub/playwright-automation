@@ -1,0 +1,122 @@
+[
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:52:30.985786",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.geeksforgeeks.org"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:52:45.529088",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:52:45.538094",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:53:10.134044",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:53:13.094928",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 46.662349
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:53:16.602978",
+        "site": "https://www.reddit.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.reddit.com"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:54:34.658770",
+        "site": "https://www.reddit.com",
+        "action": "error",
+        "details": {
+            "error": "ElementHandle.hover: Timeout 30000ms exceeded.\nCall log:\n  - attempting hover action\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <faceplate-text-input required=\"\" name=\"password\" type=\"password\" id=\"login-password\" aria-disabled=\"false\" appearance=\"secondary\" helper-text-placeholder=\"\u00a0\" faceplate-validity=\"invalid\" helper-text-aria-live=\"polite\" autocomplete=\"current-password\">\u2026</faceplate-text-input> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <iframe id=\"credential_picker_iframe\" title=\"Sign in with Google Dialogue\" src=\"https://accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=axjiETXoqSxefH6QIm06npyfyUZV0djtmBr%2F%2BLF7f7k&is_itp=true&channel_id=8ad16428bac0397c53949bd8a30e400fee65d7287a4d1bfa4349b02cd4722676&origin=https%3A%2F%2Fwww.reddit.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2F\u2026></iframe> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 20ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <faceplate-text-input required=\"\" name=\"password\" type=\"password\" id=\"login-password\" aria-disabled=\"false\" appearance=\"secondary\" helper-text-placeholder=\"\u00a0\" faceplate-validity=\"invalid\" helper-text-aria-live=\"polite\" autocomplete=\"current-password\">\u2026</faceplate-text-input> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   2 \u00d7 retrying hover action\n  -       - waiting 100ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <h1 class=\"text-24 text-center text-neutral-content-strong mt-0 mb-xs font-bold\">\u21b5    Log In\u21b5  </h1> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   4 \u00d7 retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <iframe id=\"credential_picker_iframe\" title=\"Sign in with Google Dialogue\" src=\"https://accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=axjiETXoqSxefH6QIm06npyfyUZV0djtmBr%2F%2BLF7f7k&is_itp=true&channel_id=8ad16428bac0397c53949bd8a30e400fee65d7287a4d1bfa4349b02cd4722676&origin=https%3A%2F%2Fwww.reddit.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2F\u2026></iframe> intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <faceplate-text-input required=\"\" name=\"password\" type=\"password\" id=\"login-password\" aria-disabled=\"false\" appearance=\"secondary\" helper-text-placeholder=\"\u00a0\" faceplate-validity=\"invalid\" helper-text-aria-live=\"polite\" autocomplete=\"current-password\">\u2026</faceplate-text-input> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <auth-flow-modal class=\"shadow-sm\" pagename=\"login_username_and_password\">\u2026</auth-flow-modal> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <auth-flow-modal class=\"shadow-sm\" pagename=\"login_username_and_password\">\u2026</auth-flow-modal> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <iframe id=\"credential_picker_iframe\" title=\"Sign in with Google Dialogue\" src=\"https://accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=axjiETXoqSxefH6QIm06npyfyUZV0djtmBr%2F%2BLF7f7k&is_itp=true&channel_id=8ad16428bac0397c53949bd8a30e400fee65d7287a4d1bfa4349b02cd4722676&origin=https%3A%2F%2Fwww.reddit.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2F\u2026></iframe> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <faceplate-text-input required=\"\" name=\"password\" type=\"password\" id=\"login-password\" aria-disabled=\"false\" appearance=\"secondary\" helper-text-placeholder=\"\u00a0\" faceplate-validity=\"invalid\" helper-text-aria-live=\"polite\" autocomplete=\"current-password\">\u2026</faceplate-text-input> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <auth-flow-modal class=\"shadow-sm\" pagename=\"login_username_and_password\">\u2026</auth-flow-modal> from <auth-flow-manager step-name=\"login\">\u2026</auth-flow-manager> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:54:39.064090",
+        "site": "https://www.reddit.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 85.954291
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:54:44.843537",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:54:50.306933",
+        "site": "https://www.learnpython.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Partial functions"
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:54:59.008479",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:55:15.529126",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:55:26.896650",
+        "site": "https://www.learnpython.org",
+        "action": "click",
+        "details": {
+            "tag": "A",
+            "text": "Take the Test "
+        }
+    },
+    {
+        "instance_number": 0,
+        "timestamp": "2025-02-28T21:55:32.260777",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 53.180954
+        }
+    }
+]

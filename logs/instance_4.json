@@ -1,0 +1,108 @@
+[
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:52:36.430540",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:52:54.027043",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:52:58.846546",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:53:09.146595",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:53:19.196822",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:53:23.291329",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 56.749333
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:53:24.243882",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:53:47.368566",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "HOW TO"
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:54:04.147180",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:54:08.877541",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 45.563987
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:54:13.555212",
+        "site": "https://www.reddit.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.reddit.com"
+        }
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:54:28.951798",
+        "site": "https://www.reddit.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 3,
+        "timestamp": "2025-02-28T21:55:21.913883",
+        "site": "https://www.reddit.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 73.020729
+        }
+    }
+]

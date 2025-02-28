@@ -1,0 +1,113 @@
+[
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:52:30.892164",
+        "site": "https://stackoverflow.com",
+        "action": "visited",
+        "details": {
+            "url": "https://stackoverflow.com"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:53:18.782605",
+        "site": "https://stackoverflow.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 52.106518
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:53:19.544274",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:53:36.206828",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:53:36.223152",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:53:47.319713",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "React"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:03.439332",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:08.391788",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 49.586674
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:10.483742",
+        "site": "https://www.codechef.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.codechef.com"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:26.558051",
+        "site": "https://www.codechef.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:39.318622",
+        "site": "https://www.codechef.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "View All Courses"
+        }
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:48.609526",
+        "site": "https://www.codechef.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 7,
+        "timestamp": "2025-02-28T21:54:51.172170",
+        "site": "https://www.codechef.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 42.757566
+        }
+    }
+]

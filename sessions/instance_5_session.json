@@ -1,0 +1,2059 @@
+{
+    "cookies": [
+        {
+            "name": "sync",
+            "value": "CgoIgAIQp4Tq69QyCgoIoQEQp4Tq69QyCgoI4gEQp4Tq69QyCgoI5gEQp4Tq69QyCgoIhwIQp4Tq69QyCgkIOhCnhOrr1DIKCQgbEKeE6uvUMgoKCIwCEKeE6uvUMgoKCL8CEKeE6uvUMgoJCF8Qp4Tq69Qy",
+            "domain": ".3lift.com",
+            "path": "/sync",
+            "expires": 1748537628.990343,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "SESS93b6022d778ee317bf48f7dbffe03173",
+            "value": "1e92c3a29c7b9441dfae6f025d9ecaa4",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1742758359.594111,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.1701819128.1740758361",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1748534361,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "li_sugr",
+            "value": "1983d7fc-ce10-48cf-a745-bb11c83fec46",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1748534362.404253,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bcookie",
+            "value": "\"v=2&617e0a0b-dcc1-4b05-8485-fed02620a6db\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1772294362.404321,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "lidc",
+            "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3394:u=1:x=1:i=1740758360:t=1740844760:v=2:sig=AQEWM4nPyMDBcXhxPOpZqJ_QFNoZ4wLX\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1740844761.066489,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.550746238.1740758361",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1740844761,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "UserMatchHistory",
+            "value": "AQJyrHVTq-KeXQAAAZVNSKQ_ewcQSwgXucEsE5BpfLnVUaCydSEiNfmEWoiFSp5IAy58-oDck5CzZQ",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350361.36579,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "AnalyticsSyncHistory",
+            "value": "AQIeBKcaKAMMsgAAAZVNSKQ_xkEnErR7iVK2JSo5xfUIOvUGhRxRRC88idwQDUzMa8b1CrR4fHvb40f-90aEJg",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350361.36583,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.1699440864.1740758361",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775318361.59535,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "CLID",
+            "value": "ac1bdca6b7a04e769cac61331792f37b.20250228.20260228",
+            "domain": "www.clarity.ms",
+            "path": "/",
+            "expires": 1772294361.716664,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_clck",
+            "value": "9yu2hd%7C2%7Cftt%7C0%7C1885",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1772294361,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "bscookie",
+            "value": "\"v=1&20250228155921f9e363c0-1322-4414-8acd-075e96020c3cAQGMre8kiraj9pE4N2fYtz3smVkmagGm\"",
+            "domain": ".www.linkedin.com",
+            "path": "/",
+            "expires": 1772294362.113826,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "MUID",
+            "value": "0323ECC728646D401CE1F96629A86C37",
+            "domain": ".bing.com",
+            "path": "/",
+            "expires": 1774454363.895379,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "MR",
+            "value": "0",
+            "domain": ".c.bing.com",
+            "path": "/",
+            "expires": 1741363163.89547,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "SRM_B",
+            "value": "0323ECC728646D401CE1F96629A86C37",
+            "domain": ".c.bing.com",
+            "path": "/",
+            "expires": 1774454363.895505,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_clsk",
+            "value": "ihozcg%7C1740758363000%7C1%7C1%7Cl.clarity.ms%2Fcollect",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1740844763,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "SM",
+            "value": "C",
+            "domain": ".c.clarity.ms",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "MUID",
+            "value": "0323ECC728646D401CE1F96629A86C37",
+            "domain": ".clarity.ms",
+            "path": "/",
+            "expires": 1774454363.0754,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "MR",
+            "value": "0",
+            "domain": ".c.clarity.ms",
+            "path": "/",
+            "expires": 1741363163.075457,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "session",
+            "value": "eyJ1aWQiOnsiIGIiOiJNekl3TnpCaU1ERTNOMll5T0RCaE1USmxNelF4WmpZNVpUSXpZMlF4TjJFPSJ9fQ.Z8Hdhg.bB09WfpDepimjY2NA1ikbvefTkk",
+            "domain": "www.learnpython.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_C8RQQ7NY18",
+            "value": "GS1.1.1740758361.1.1.1740758406.15.0.0",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775318406.941257,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.658724710.1740758411",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775321675.744581,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.941049865.1740758411",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1740848075,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "ar_debug",
+            "value": "1",
+            "domain": ".googleadservices.com",
+            "path": "/",
+            "expires": 1748537702.721641,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "DSID",
+            "value": "NO_DATA",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1740762013.604547,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_tracker",
+            "value": "%7B%22UUID%22%3A%22CF65CE9B-CB9F-4823-194D-EBC389791C3D%22%7D",
+            "domain": ".travelaudience.com",
+            "path": "/",
+            "expires": 1774713612.709834,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ar_debug",
+            "value": "1",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1743350413.876423,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.710563240.1740758463",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321550.193029,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "_tdxIVjuyWakf832Y1AbDYaU0LoL4GZoCVsrcauuMOo-1740761549-1.0.1.1-yObGpYmpM1DkaI.FUd2umpljkfrRTaTkeaXo18Rya71xLS_x0KYBn5qMKLrT48JiIm2OybEdKDzB2zgHFG2znHu2eoN8teprzE00IfE8swg",
+            "domain": ".snigelweb.com",
+            "path": "/",
+            "expires": 1740763349.074318,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_9YNMTB56NB",
+            "value": "GS1.1.1740761550.2.1.1740761601.0.0.0",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321601.254769,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.1590849937.1740761602",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321621.185298,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_theme",
+            "value": "gfgThemeLight",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321602.214403,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.312576988.1740761602",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1748537602,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUmhPw0kxvjb07vgqBvZkSch_hXK88XFyb4KxaQlziQc2ZCXUtbxQHzKBjXv",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1775321603.103285,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "gfg_nluid",
+            "value": "cac50ab42253e1804a3865fd84b58c4f",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1772317404.338771,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_id5_ipv4",
+            "value": "154.192.156.40",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_id5_user_agent",
+            "value": "Mozilla/5.0%20%28Linux%3B%20Android%2011%3B%20Pixel%204%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/90.0.4430.210%20Mobile%20Safari/537.36",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_pubcid",
+            "value": "aaf9b962-ae6f-42f3-ab6d-ecd6659513b6",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1743353621,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_pubcid_cst",
+            "value": "zix7LPQsHA%3D%3D",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1743353621,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_lr_retry_request",
+            "value": "true",
+            "domain": "www.geeksforgeeks.org",
+            "path": "/",
+            "expires": 1740765221,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_lr_env_src_ats",
+            "value": "false",
+            "domain": "www.geeksforgeeks.org",
+            "path": "/",
+            "expires": 1743353621,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gd_visitor",
+            "value": "fab89961-3656-4c2a-89c5-64fbe5c7f64e",
+            "domain": "www.geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321621.282624,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_gd_session",
+            "value": "d486f658-d88a-4afb-875c-068e0b15ea20",
+            "domain": "www.geeksforgeeks.org",
+            "path": "/",
+            "expires": 1740776021,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "gfg_ads_exp",
+            "value": "NO-RUNNING-EXPERIMENTS",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_ads_country",
+            "value": "PK",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_cc_dc",
+            "value": "2",
+            "domain": ".crwdcntrl.net",
+            "path": "/",
+            "expires": 1764087060.524867,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cc_id",
+            "value": "3da3558a0d59fa338a7b90cd9982bc8e",
+            "domain": ".crwdcntrl.net",
+            "path": "/",
+            "expires": 1764087060.52495,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cc_cc",
+            "value": "\"ACZ4nGNQME5JNDY1tUg0SDG1TEs0NrZINE%2ByNEhOsbS0MEpKtkhlAIL0g69EGRAAAGB4C0U%3D\"",
+            "domain": ".crwdcntrl.net",
+            "path": "/",
+            "expires": 1764089621.524998,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cc_aud",
+            "value": "\"ABR4nGNgYGBIP%2FhKlAEOABtgAig%3D\"",
+            "domain": ".crwdcntrl.net",
+            "path": "/",
+            "expires": 1764089621.52503,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "http_referrer",
+            "value": "https://www.geeksforgeeks.org/bootstrap/?ref=outindfooter",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "panoramaId_expiry",
+            "value": "1740848021751",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1740848021,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_cc_id",
+            "value": "3da3558a0d59fa338a7b90cd9982bc8e",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1764089621,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "cto_bundle",
+            "value": "Vb6HW19CUHE0Mng5eVp2eUx4ZmhqMSUyRktHcDlFQThLbE9GM1Q1cWhRM1BNQkVBM2E5enVNNWl4R0tMQVhFc01nSlcyMGlZZ1VqR1I1YjVPc1dJMGxyaG9Zd2NvTGw0YnZHZ1I4cWs2MGRKazNuSEFYVmIlMkZGR2pQRDRHTWFlN0clMkZNUTJqNw",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1774486421,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "cto_bidid",
+            "value": "jjxMu19yMUxrRWRNaWdyZlZQR0pVNXhyMXRBN3hiOEZWbWJoTjBaWGVRUkZpYkNxNGVTeUFYanlXbVdZNDdNNjBxJTJGeFZORDRXM0VKR0ZteEpFUERqSSUyQmtXcHclM0QlM0Q",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1774486421,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=62a62a92ff671cc5:T=1740761622:RT=1740761622:S=ALNI_MaMxJksgZfFYl-Yz9aX85dKLrLXoA",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1774457622,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000fff2920ef4c:T=1740761622:RT=1740761622:S=ALNI_MbzjMak5tT2kor5NBTSMHE_5uPR_Q",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1774457622,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eoi",
+            "value": "ID=149747ca4518c697:T=1740761622:RT=1740761622:S=AA-AfjZYlxZ_uXQNORj4j9LzFsp4",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1756313622,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "udsession",
+            "value": "e30:1to3cN:vmRcVP9taSgI1mnsBcNBAaS6duNUWHBNyHHg3WMAxJ0",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1740765222.973577,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Strict"
+        },
+        {
+            "name": "id5",
+            "value": "f75f7d22-24de-73c1-bb08-ed434186d3b9#1740761622225#2",
+            "domain": ".id5-sync.com",
+            "path": "/",
+            "expires": 1748537623.116524,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "receive-cookie-deprecation",
+            "value": "1",
+            "domain": ".3lift.com",
+            "path": "/",
+            "expires": 1748537624.906716,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "receive-cookie-deprecation",
+            "value": "1",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1772297624.925684,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "tt_viewer",
+            "value": "afca1eb8-97a6-45a1-adae-db19151425ca",
+            "domain": ".teads.tv",
+            "path": "/",
+            "expires": 1772211224.926907,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "receive-cookie-deprecation",
+            "value": "1",
+            "domain": ".adnxs.com",
+            "path": "/",
+            "expires": 1775321629.886426,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KADUSERCOOKIE",
+            "value": "25DDA687-C3C1-4AE5-89BC-5F9831293374",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1772297658.934083,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "tluidp",
+            "value": "3840139875397940143520",
+            "domain": ".3lift.com",
+            "path": "/",
+            "expires": 1748537630.20639,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "tluid",
+            "value": "3840139875397940143520",
+            "domain": ".3lift.com",
+            "path": "/",
+            "expires": 1748537630.206495,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "CMID",
+            "value": "Z8HqHBdaRDIAKTg1AAHPHAAA",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1772297631.781975,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "CMPS",
+            "value": "5359",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1748537628.850347,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "CMPRO",
+            "value": "5359",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1748537631.782093,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "rlas3",
+            "value": "LAwtd6jVGR2dKiX/AwzqhKQMTgnSjQNpbW+Hj6ae6bE=",
+            "domain": ".rlcdn.com",
+            "path": "/",
+            "expires": 1772297629.422121,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "suid",
+            "value": "CA815DE4D68C4266B3269E399C98609F",
+            "domain": ".simpli.fi",
+            "path": "/",
+            "expires": 1772384029.204206,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "C",
+            "value": "1",
+            "domain": ".adform.net",
+            "path": "/",
+            "expires": 1743180829.222795,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDID",
+            "value": "3a0e9df6-3a7d-4b32-bf72-241680d72bc8",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772297675.820076,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "i",
+            "value": "0411da12-3938-4d63-b5c8-671daa0826f4|1740761629",
+            "domain": ".openx.net",
+            "path": "/",
+            "expires": 1772297629.489843,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uid",
+            "value": "8088389659677057265",
+            "domain": ".turn.com",
+            "path": "/",
+            "expires": 1756313638.201175,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uid",
+            "value": "1638602085241419838",
+            "domain": ".adform.net",
+            "path": "/",
+            "expires": 1745945631.874183,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "audit_p",
+            "value": "1|pX+o/QRtpg1LP61C/lgqWvoBHW/2BpZ+cv52x3CvT5/1UusF30NmfdnYFSQTi7PPmkDg50UprT0kEa5N2k7U1SEEFoCDRlfY5fvCZrsWYKogAO8QseHedzZKDNQtImgsDCXa4mtRxq5bfFAm6jLIhfWqCnTpByONHyaX84UjOd2i6kVEFuzl/9APlTu0R9RN",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1772297629.405188,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "khaos",
+            "value": "M7P0J1RZ-1C-BX7Q",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1772297629.40531,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "khaos_p",
+            "value": "M7P0J1RZ-1C-BX7Q",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1772297629.405348,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "audit",
+            "value": "1|pX+o/QRtpg1LP61C/lgqWvoBHW/2BpZ+cv52x3CvT5/1UusF30NmfdnYFSQTi7PPmkDg50UprT0kEa5N2k7U1SEEFoCDRlfY5fvCZrsWYKogAO8QseHedzZKDNQtImgsDCXa4mtRxq5bfFAm6jLIhfWqCnTpByONHyaX84UjOd2i6kVEFuzl/9APlTu0R9RN",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1772297629.405383,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "receive-cookie-deprecation",
+            "value": "1",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1748537629.405423,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "XANDR_PANID",
+            "value": "nYax71hQwmi_9VN0WY7274FjrpZiJ0eTcqsKQrVNc52ii6NeBSdQMK8u1zRKchKjF93eOmHGRTNq_O86cOpyv3N6ES5RFEvC7Yg2RZv0Abo.",
+            "domain": ".adnxs.com",
+            "path": "/",
+            "expires": 1748537629.886251,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uuid2",
+            "value": "8589872534998513877",
+            "domain": ".adnxs.com",
+            "path": "/",
+            "expires": 1748537629.886558,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pxrc",
+            "value": "CJ3Uh74GEgUI6AcQABIFCOhHEAA=",
+            "domain": ".rlcdn.com",
+            "path": "/",
+            "expires": 1745945629.422265,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TestIfCookieP",
+            "value": "ok",
+            "domain": ".smartadserver.com",
+            "path": "/",
+            "expires": 1772297629.442881,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pbw",
+            "value": "%24b%3d16900%3b%24o%3d23110",
+            "domain": ".smartadserver.com",
+            "path": "/",
+            "expires": 1772297629.442938,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pd",
+            "value": "v2|1740761629|wkn0geiyvNgu",
+            "domain": ".openx.net",
+            "path": "/",
+            "expires": 1742057629.489956,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_57",
+            "value": "23339-7138917996731952326&KRTB&22776-7138917996731952326",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537629.491693,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_22",
+            "value": "14911-8088389659677057265&KRTB&23150-8088389659677057265&KRTB&23527-8088389659677057265&KRTB&23643-8088389659677057265",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353629.492723,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_377",
+            "value": "6810-3a0e9df6-3a7d-4b32-bf72-241680d72bc8&KRTB&22918-3a0e9df6-3a7d-4b32-bf72-241680d72bc8&KRTB&22926-3a0e9df6-3a7d-4b32-bf72-241680d72bc8&KRTB&23031-3a0e9df6-3a7d-4b32-bf72-241680d72bc8",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537629.493498,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "stx_user_id",
+            "value": "099d1c05-dab1-4d7e-ba9d-725e2bd6e52d",
+            "domain": ".sharethrough.com",
+            "path": "/",
+            "expires": 1743353629.497812,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_80",
+            "value": "22987-CAESENAdsk6DgdVIr0HTpIQ_p98&KRTB&16514-CAESENAdsk6DgdVIr0HTpIQ_p98&KRTB&23025-CAESENAdsk6DgdVIr0HTpIQ_p98&KRTB&23386-CAESENAdsk6DgdVIr0HTpIQ_p98",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537629.634974,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pid",
+            "value": "373100609948030225",
+            "domain": ".smartadserver.com",
+            "path": "/",
+            "expires": 1748537630.668802,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "SEUNCY",
+            "value": "EF1A1443F3F39ADC",
+            "domain": ".semasio.net",
+            "path": "/",
+            "expires": 1772297629.843535,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ljt_reader",
+            "value": "KP6VALZHiY5pQjzMShu-w4uj",
+            "domain": ".lijit.com",
+            "path": "/",
+            "expires": 1772297629.904644,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "did",
+            "value": "EtRh1bMAmorhb0-z",
+            "domain": ".pippio.com",
+            "path": "/",
+            "expires": 1772297629.764911,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "didts",
+            "value": "1740761629",
+            "domain": ".pippio.com",
+            "path": "/",
+            "expires": 1772297629.765002,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "nnls",
+            "value": "",
+            "domain": ".pippio.com",
+            "path": "/",
+            "expires": 1745945629.76504,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pxrc",
+            "value": "CAA=",
+            "domain": ".pippio.com",
+            "path": "/",
+            "expires": 1745945629.765071,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "univ_id",
+            "value": "537072971|3a0e9df6-3a7d-4b32-bf72-241680d72bc8|1740761630041962",
+            "domain": ".openx.net",
+            "path": "/",
+            "expires": 1742057629.823044,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "mc",
+            "value": "67c1ea1e-1f0c3-1b1a7-e4c29",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1774976029.890526,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ts",
+            "value": "1740761630",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772297629.925877,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "g",
+            "value": "ZfYDSXYxk6c2BYPQjSta_1740761630082",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772297629.925825,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "A3",
+            "value": "d=AQABBB7qwWcCEBoGqBu-yrCsaEJ6JyxDBNEFEgEBAQE7w2fLZ5ICziMA_eMAAA&S=AQAAAo2utBfLZ4OEdBmEaTHVa9Y",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1772319276.668298,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uid",
+            "value": "AZVNeoY172qf66_BOXQ",
+            "domain": ".adtdp.com",
+            "path": "/",
+            "expires": 1775321630.050694,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "dynid",
+            "value": "AZVNeoY172qf66_BOXQ",
+            "domain": ".adtdp.com",
+            "path": "/",
+            "expires": 1775321630.050783,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.062546,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.062612,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.06264,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.062662,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyCe1Ie-BjABOgQTJSkkQgQqkjy4.MynHfRPSsNJ7mpTr61khNcO3EPAW8RZXUbTBUaYcVOw",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.062697,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyCe1Ie-BjABOgQTJSkkQgQqkjy4.MynHfRPSsNJ7mpTr61khNcO3EPAW8RZXUbTBUaYcVOw",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772297630.062721,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uuid",
+            "value": "f19967c1-ea1e-4200-93ad-396af89f8c71",
+            "domain": ".mathtag.com",
+            "path": "/",
+            "expires": 1774716830.12396,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuid",
+            "value": "TWNDsopDje5dH7WOKR1Y",
+            "domain": ".zemanta.com",
+            "path": "/",
+            "expires": 1772297631.469849,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_27",
+            "value": "16735-uid:f19967c1-ea1e-4200-93ad-396af89f8c71",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537630.247034,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "IDSYNC",
+            "value": "18z8~2nsg",
+            "domain": ".analytics.yahoo.com",
+            "path": "/",
+            "expires": 1772297630.365846,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "obuid",
+            "value": "a905ed57-e05b-479b-9c82-6fa27e174862",
+            "domain": ".outbrain.com",
+            "path": "/",
+            "expires": 1772297631.16092,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "DPSync4",
+            "value": "1741910400%3A197_226_245%7C1741305600%3A164%7C1740787200%3A248",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537631.689505,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_153",
+            "value": "19420-rt3Pgf2LndW128qA-9mBgfrbzYe1j5jTqtN2MkFE&KRTB&22979-rt3Pgf2LndW128qA-9mBgfrbzYe1j5jTqtN2MkFE&KRTB&23462-rt3Pgf2LndW128qA-9mBgfrbzYe1j5jTqtN2MkFE&KRTB&23661-rt3Pgf2LndW128qA-9mBgfrbzYe1j5jTqtN2MkFE",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537631.964618,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TapAd_TS",
+            "value": "1740761632225",
+            "domain": ".tapad.com",
+            "path": "/",
+            "expires": 1745945632.188564,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TapAd_DID",
+            "value": "de55a86f-5427-4fd8-9974-b47af68bce3f",
+            "domain": ".tapad.com",
+            "path": "/",
+            "expires": 1745945632.188685,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_391",
+            "value": "22924-1638602085241419838&KRTB&23263-1638602085241419838&KRTB&23481-1638602085241419838",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353631.999886,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_aGeoIp",
+            "value": "PK-Karachi",
+            "domain": ".ambientdsp.com",
+            "path": "/",
+            "expires": 1740848032.042229,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_aUID",
+            "value": "186nute4cu88",
+            "domain": ".ambientdsp.com",
+            "path": "/",
+            "expires": 1775321632.042289,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "everest_g_v2",
+            "value": "g_surferid~Z8HqIAAAAMPmCwBh",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": 1772297632.07977,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_632",
+            "value": "23041-NehEfgSNFM_oa0GdwKQP6-MWwxse7d-EyBvu0ceYJm8&KRTB&23047-NehEfgSNFM_oa0GdwKQP6-MWwxse7d-EyBvu0ceYJm8&KRTB&23234-NehEfgSNFM_oa0GdwKQP6-MWwxse7d-EyBvu0ceYJm8&KRTB&23361-NehEfgSNFM_oa0GdwKQP6-MWwxse7d-EyBvu0ceYJm8",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353632.089719,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_860",
+            "value": "16335-74CD609WW058KagHXRQ7u5rAnCg&KRTB&23334-74CD609WW058KagHXRQ7u5rAnCg&KRTB&23417-74CD609WW058KagHXRQ7u5rAnCg&KRTB&23426-74CD609WW058KagHXRQ7u5rAnCg",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537632.095,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_auid",
+            "value": "yBOWF_2LB-CpGIfZIOrBZw",
+            "domain": ".c.appier.net",
+            "path": "/",
+            "expires": 1772297632.159166,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_1290",
+            "value": "23368-186nute4cu88",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353632.167192,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TapAd_3WAY_SYNCS",
+            "value": "",
+            "domain": ".tapad.com",
+            "path": "/",
+            "expires": 1745945632.188749,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_218",
+            "value": "22978-Z8HqIAAAAMPmCwBh&KRTB&23194-Z8HqIAAAAMPmCwBh&KRTB&23209-Z8HqIAAAAMPmCwBh&KRTB&23244-Z8HqIAAAAMPmCwBh",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537632.248329,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eConsent",
+            "value": "1",
+            "domain": ".eskimi.com",
+            "path": "/",
+            "expires": 1743353632.250392,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eDId",
+            "value": "8eb34750-4083-40c3-aa8c-129775d387b9",
+            "domain": ".eskimi.com",
+            "path": "/",
+            "expires": 1743353632.250486,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_904",
+            "value": "23554-yBOWF_2LB-CpGIfZIOrBZw&KRTB&23557-yBOWF_2LB-CpGIfZIOrBZw&KRTB&23586-yBOWF_2LB-CpGIfZIOrBZw&KRTB&23702-yBOWF_2LB-CpGIfZIOrBZw",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353632.291417,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sw_user_params_infos",
+            "value": "4MsLL%2FlLAtz4tA0SClfxx2uBFvSl6fYl1pWg3UcZsXSVcGHuTJokK%2FvflCRvLEJAQmRjsQj5MkWzfCauQ1zJSbbHM1txP%2BnAF8lL5Mn7kqSQvxeN7ZbtS9sGfuR3E70Vs%2Fk%2BdgigsRQtHwfRZt4OMSqKAgFV%2FKrikdDuzoLFo4J8TRe0Ho2NdZ%2B9FtE5AR4YBx%2B%2BAEtnENc5CqSq%2BtjiwvFYYVmnYfW7tG6YnRkv8FZvASsO6gG20PQLiBL8FEhpDpzBdd4if5JvDKiup4pqTm4bm7bg4Sd75BR%2BIb8%2FmF6FCV8UslTrxA1tE4xmDSxNBOAiHT4wj55pBVDuOg2lZ4xEQ%2BfW1VoURJWwEJJSvPg%3D",
+            "domain": ".smilewanted.com",
+            "path": "/",
+            "expires": 1772318617.426825,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cid_73389eb659b045f587c1039200c2caed",
+            "value": "1",
+            "domain": ".ctnsnet.com",
+            "path": "/",
+            "expires": 1772297633.450625,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cid_4001187679e04c53a2b46e327a35fa12",
+            "value": "1",
+            "domain": ".ctnsnet.com",
+            "path": "/",
+            "expires": 1772297632.453316,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "UID",
+            "value": "OPU1b0c786af4274d47925a7f9e146e7342",
+            "domain": ".adx.opera.com",
+            "path": "/",
+            "expires": 1772297632.466694,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ANON_ID",
+            "value": "aFnoeUrZcAQpBqErd2lZcA7NetnK4qyALFn4DlZbuR2",
+            "domain": ".tribalfusion.com",
+            "path": "/",
+            "expires": 1748537632.563427,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_1159",
+            "value": "23138-73389eb659b045f587c1039200c2caed&KRTB&23328-73389eb659b045f587c1039200c2caed&KRTB&23427-73389eb659b045f587c1039200c2caed&KRTB&23445-73389eb659b045f587c1039200c2caed",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1741971232.566771,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_1323",
+            "value": "23480-OPU1b0c786af4274d47925a7f9e146e7342&KRTB&23485-OPU1b0c786af4274d47925a7f9e146e7342&KRTB&23524-OPU1b0c786af4274d47925a7f9e146e7342&KRTB&23575-OPU1b0c786af4274d47925a7f9e146e7342",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1741971232.579401,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cr",
+            "value": "1",
+            "domain": ".ladsp.com",
+            "path": "/",
+            "expires": 1740765232.600755,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "tuuid",
+            "value": "37c64a33-9d6e-4797-9a22-198215e2f6f9",
+            "domain": ".bidswitch.net",
+            "path": "/",
+            "expires": 1772297632.928243,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "c",
+            "value": "1740761632",
+            "domain": ".bidswitch.net",
+            "path": "/",
+            "expires": 1772297632.629339,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "smn_uid",
+            "value": "g3OKYhXteQcql82qia9UZShol-i5mxM",
+            "domain": ".ladsp.com",
+            "path": "/",
+            "expires": 1775321632.775319,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "lum",
+            "value": "CN-h6uvUMhIFCAoQ4BI",
+            "domain": ".ladsp.com",
+            "path": "/",
+            "expires": 1775321632.775409,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_629",
+            "value": "11487-AVMuXX-YYtOKks8AKGiX6LmbE88AAAGVTXqQ3w",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353632.903877,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "tuuid_lu",
+            "value": "1740761633",
+            "domain": ".bidswitch.net",
+            "path": "/",
+            "expires": 1772297632.928326,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_32",
+            "value": "11175-AQAKjE-mxt7lNQISD-oeAQEBAQEBAQCUTHuQRAEBAJRMe5BE&KRTB&22715-AQAKjE-mxt7lNQISD-oeAQEBAQEBAQCUTHuQRAEBAJRMe5BE&KRTB&23519-AQAKjE-mxt7lNQISD-oeAQEBAQEBAQCUTHuQRAEBAJRMe5BE&KRTB&23632-AQAKjE-mxt7lNQISD-oeAQEBAQEBAQCUTHuQRAEBAJRMe5BE",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537632.96447,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_1051",
+            "value": "22884-18072662149508340365&KRTB&23606-18072662149508340365&KRTB&23679-18072662149508340365",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353633.018262,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuuid",
+            "value": "3f6b124e-ff95-4340-873d-0182f93d6f28",
+            "domain": ".sportradarserving.com",
+            "path": "/",
+            "expires": 1772211234.105856,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "c",
+            "value": "1740761634",
+            "domain": ".sportradarserving.com",
+            "path": "/",
+            "expires": 1772211233.806906,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuuid_lu",
+            "value": "1740761634",
+            "domain": ".sportradarserving.com",
+            "path": "/",
+            "expires": 1772211234.106049,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuuid_k",
+            "value": "1",
+            "domain": ".sportradarserving.com",
+            "path": "/",
+            "expires": 1772211234.106229,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuuid_k_lu",
+            "value": "1740761634",
+            "domain": ".sportradarserving.com",
+            "path": "/",
+            "expires": 1772211234.106273,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_466",
+            "value": "16530-37c64a33-9d6e-4797-9a22-198215e2f6f9&KRTB&23280-37c64a33-9d6e-4797-9a22-198215e2f6f9",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537634.520897,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "SyncRTB4",
+            "value": "1741910400%3A21_264_209_22_76_201_220_54_56_13_238_46_7_176_214_8_266_233_71_165_234_5_99_179_254_231_247_3_270_96_107%7C1745884800%3A69%7C1741996800%3A35%7C1741305600%3A2_15_223%7C1741564800%3A63",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537635.256053,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "wfivefivec",
+            "value": "86NyVaYR1TO3Cz5",
+            "domain": ".w55c.net",
+            "path": "/",
+            "expires": 1774716835.741171,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "matchpubmatic",
+            "value": "5",
+            "domain": ".w55c.net",
+            "path": "/",
+            "expires": 1743353635.741236,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_107",
+            "value": "1471-uid:86NyVaYR1TO3Cz5&KRTB&23421-uid:86NyVaYR1TO3Cz5",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537635.864392,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ruds",
+            "value": "H4sIAAAAAAAA_-MSNrQ0NzUxMzS3MLK0MDe1NDCwNBDiM9R1NvFxivQ3D6_IyXYEAOb0ooslAAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "rud",
+            "value": "H4sIAAAAAAAA_-MSNrQ0NzUxMzS3MLK0MDe1NDCwNBDiM9R1NvFxivQ3D6_IyXYEAOb0ooslAAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": 1774457676.869676,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_18",
+            "value": "22947-1975461782987590090",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537636.307153,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "viewer_token",
+            "value": "5d5a8035-4c81-4bae-b8f9-a623d0d733f1",
+            "domain": ".csync.loopme.me",
+            "path": "/",
+            "expires": 1748451236.507411,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "SPugT",
+            "value": "1740761637",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353637.392935,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_rxuuid",
+            "value": "%7B%22rx_uuid%22%3A%22RX-d88115a9-effe-4064-8c73-a8224adcaea7-004%22%2C%22nxtrdr%22%3Afalse%7D",
+            "domain": ".1rx.io",
+            "path": "/",
+            "expires": 1772297637.492592,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_rxuuid",
+            "value": "%7B%22rx_uuid%22%3A%22RX-d88115a9-effe-4064-8c73-a8224adcaea7-004%22%7D",
+            "domain": ".targeting.unrulymedia.com",
+            "path": "/",
+            "expires": 1772297639.341538,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "KRTBCOOKIE_594",
+            "value": "17105-RX-d88115a9-effe-4064-8c73-a8224adcaea7-004&KRTB&17107-RX-d88115a9-effe-4064-8c73-a8224adcaea7-004",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537639.468663,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "PugT",
+            "value": "1740761638",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1743353639.468767,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "chkChromeAb67Sec",
+            "value": "5",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1748537658.934203,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pi",
+            "value": "162080:4",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1740848058.934252,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pubsyncexp",
+            "value": "1740783258936",
+            "domain": ".ads.pubmatic.com",
+            "path": "/",
+            "expires": 1740848058,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "jj1atQarfLkPlRYiwrzjqhcAcuZtz6Kx3N_X4bvIsAk-1740761672-1.0.1.1-BH.J8a7uGBPKKSz1d_CyV6hO4U2YTRAsKPvqeYxuYkkBLnozY38nth7ExzWZ6ui_KWNS.ckYJr9.Wevjp7quFZK9VaHF5StzlBYMruP_4zw",
+            "domain": ".www.learnpython.org",
+            "path": "/",
+            "expires": 1740763471.805559,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_DWCCJLKX3X",
+            "value": "GS1.1.1740761601.1.1.1740761671.60.0.0",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321671.824101,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cf_bm",
+            "value": ".WcaIe86NZsVYWKq0SUka6d3DdXXuELANWeA.7AaLSw-1740761673-1.0.1.1-QYBUjhHCvzEG2DOe32N74Wvi5LuT0Om2RzGT1PxCcYCIzInERtjD0WbduHDFtpmr.6Eh8zt7qf4jHoMqZtcrDMHtRCEwrbmUJWXE8Y3YCAs",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": 1740763473.366402,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "RmFO42KRzLZKr.uZ2n1SHHJKkzMKHtUdfyX1usPSvz0-1740761673658-0.0.1.1-604800000",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cf_clearance",
+            "value": "8o7BO.0vvMfKzsN23Yg1A.SPXgH5HSn.Gxmcsqoo8Fs-1740761673-1.2.1.1-7UCOjHFO0zUQbcEcYFWrGhlgfTpr41pt7hRGBTrqeW2xaNuyWRjd6VSyHBifaZXeP.gHedZ_9K3RsFtmmCL0vgjZk1OJ1379iFjVAoT02uB9pjQqgeMSTHWg7IbiVzF3wQZJsU76EBODlau_Q8BariVmox.FR1ZF6McUTdBCKpVfTmBsQPoceMfI2v5XuaoEiTBQbd.hHzKFNSwxCoqSIilb5_Iw6npRAffWCqpd_B.Tuh8dqsfUS4eMABTMCR69sBT30NkP9ewrGbqEdYtapSmyh3lYuxWKdQ7x5Obs8ieFZroniI2wyvqQYGoBmEjXOV0b_RXYZAn6AihE.uX6FhQ1nITG.XkPNBPmy4p4uiBrvnKACAvWn3pgt7BYBhMT6YQtIEcA8gpBKqam8NRpaeeUrzy99EMBcVuQ4I7Ner4",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": 1772297673.672554,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=f4458e7908c669c1:T=1740758408:RT=1740761674:S=ALNI_MZjxUE5pPF5m5pYGrb_7F6jfRktNA",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454408,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000fff26ceefd8:T=1740758408:RT=1740761674:S=ALNI_Ma6Q1lc6zd3L5TwauwbGRL6GxKiTA",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454408,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eoi",
+            "value": "ID=f9b8c1e215320f3c:T=1740758408:RT=1740761674:S=AA-AfjZvVru2mSfATrjfCMiRURjO",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1756310408,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAESFQoGY2FzYWxlEgsI7sbim9CI7D0QBRIVCgZnb29nbGUSCwjukq3W04jsPRAFGAUgAygCMgsImoeNx-aI7D0QBTgB",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772297675.82017,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sp",
+            "value": "CggIknESAxDcDgoICIkNEgMQ3A4KCAjZZRIDENwO",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1748537676.479292,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "euds",
+            "value": "H4sIAAAAAAAA_-OSMXR2dA12dQrNT_WoSi9Oyvb1Ms4N884vLXPyywYAIWcMBx4AAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "eud",
+            "value": "H4sIAAAAAAAA_-OSMXR2dA12dQrNT_WoSi9Oyvb1Ms4N884vLXPyyw7iNTQ3MTA3MzQzNzcwMtzECOcbmxmbmr1iRJUHAHQjoBFNAAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": 1774457676.869569,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_LJCY7V2Z42",
+            "value": "GS1.2.1740761676.2.0.1740761676.60.0.0",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775321676.899983,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_pangle",
+            "value": "2tg74xYW59tlmE2fYdCzqsiafUR",
+            "domain": ".pangle-ads.com",
+            "path": "/",
+            "expires": 1774457677.013543,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "https://www.learnpython.org",
+            "localStorage": [
+                {
+                    "name": "google_adsense_settings",
+                    "value": "{\"ca-pub-3723950136133694\":[\"ca-pub-3723950136133694\",[[1]]]}"
+                },
+                {
+                    "name": "__lsv__",
+                    "value": "[1740761702324]"
+                },
+                {
+                    "name": "google_ama_config",
+                    "value": "[[[[null,1,null,[],null,null,\"DIV#main>DIV.row\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.clearfix\"],1,[\"10px\",\"16px\",1],[2],null,[],[],1,[],[]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"NAV\"],4,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"16px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>DIV.bg-light>DIV.container-fluid.bg-light\"],1,[\"10px\",\"30px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[5]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"H1\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]]],[],[1740848075430],\"20250226_093558\",[],[[[[null,3,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,H3,LI,P\"]],[[null,1,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>OL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV.clearfix\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]],[[null,2,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,0,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]]]],[[null,[1,3,2],null,\"3514846746\",[],[],[0,2],null,null,[null,null,2,11,350,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1219059114],null,null,[1740744824562],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.w3schools.com",
+            "localStorage": [
+                {
+                    "name": "preferredmode",
+                    "value": "null"
+                },
+                {
+                    "name": "snconsent_geo",
+                    "value": "eyJjb3VudHJ5IjoicGsiLCJyZWdpb24iOiJpcyJ9"
+                },
+                {
+                    "name": "snconsent_geo_exp",
+                    "value": "1740762062340"
+                },
+                {
+                    "name": "preferredpagemode",
+                    "value": "null"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.codechef.com",
+            "localStorage": [
+                {
+                    "name": "li_adsId",
+                    "value": "74c506c7-b6bc-4f1a-b703-d4b2a9c838bb"
+                }
+            ]
+        },
+        {
+            "origin": "https://learnpython-ads.datacamp.com",
+            "localStorage": [
+                {
+                    "name": "lastExternalReferrer",
+                    "value": "other"
+                },
+                {
+                    "name": "lastExternalReferrerTime",
+                    "value": "1740761673899"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.google.com",
+            "localStorage": [
+                {
+                    "name": "rc::h",
+                    "value": "1740761625169"
+                },
+                {
+                    "name": "rc::a",
+                    "value": "MXBlbDkwYjFncGh5c3g="
+                }
+            ]
+        },
+        {
+            "origin": "https://www.geeksforgeeks.org",
+            "localStorage": [
+                {
+                    "name": "panoramaId_expiry",
+                    "value": "1740848021751"
+                },
+                {
+                    "name": "cto_bidid",
+                    "value": "jjxMu19yMUxrRWRNaWdyZlZQR0pVNXhyMXRBN3hiOEZWbWJoTjBaWGVRUkZpYkNxNGVTeUFYanlXbVdZNDdNNjBxJTJGeFZORDRXM0VKR0ZteEpFUERqSSUyQmtXcHclM0QlM0Q"
+                },
+                {
+                    "name": "loginData",
+                    "value": "{\"marking\":false,\"user_upvoted\":\"\",\"upvote_count\":\"8\",\"techincal_script_vote\":false,\"userUpvoted\":\"\",\"upvoteCount\":\"8\",\"technicalScripterVote\":false,\"is_logged_in\":false,\"user_name\":false,\"csrf_token\":\"9e1000031d778dfa5942ab8c8d15f0e67182735c8f2a8dfc206abb805a7a80dc\",\"ut_csrf_token\":\"57436ae75bb0cab2398ce969a734ca4a2ec45b642c94d23f2855a11603e7e3b6\",\"eidentifier\":\"3gmeHIhk1C2AKZGhdJAvHe1sL9QuhWp17aA83gVsg1Fr+ZA=\",\"time\":\"22:23:42\",\"payload\":{},\"country_name\":\"Pakistan\",\"country_code\":\"PK\",\"region_code\":\"IS\",\"region_name\":\"Islamabad\",\"city_name\":\"Islamabad\",\"isLoggedIn\":false,\"userName\":false}"
+                },
+                {
+                    "name": "_GESPSK-uidapi.com",
+                    "value": "[\"uidapi.com\",null,1740761627519,null,null,null,null,null,null,[111]]"
+                },
+                {
+                    "name": "previous",
+                    "value": "1270247"
+                },
+                {
+                    "name": "prev_post_title",
+                    "value": "Bootstrap Tutorial"
+                },
+                {
+                    "name": "id5id_exp",
+                    "value": "Thu, 29 May 2025 16:53:43 GMT"
+                },
+                {
+                    "name": "cto_bundle",
+                    "value": "Vb6HW19CUHE0Mng5eVp2eUx4ZmhqMSUyRktHcDlFQThLbE9GM1Q1cWhRM1BNQkVBM2E5enVNNWl4R0tMQVhFc01nSlcyMGlZZ1VqR1I1YjVPc1dJMGxyaG9Zd2NvTGw0YnZHZ1I4cWs2MGRKazNuSEFYVmIlMkZGR2pQRDRHTWFlN0clMkZNUTJqNw"
+                },
+                {
+                    "name": "id5id_1206_nb",
+                    "value": "0"
+                },
+                {
+                    "name": "_GESPSK-id5-sync.com",
+                    "value": "[\"id5-sync.com\",\"ID5*yU_HQsuS5aXcAkTonsRqJkPYTgDdrOJIEurpwoIWmZ79_RVFhJ_BSLbvCMm9BxH3\",1740761627519]"
+                },
+                {
+                    "name": "lastPageUrl",
+                    "value": "null"
+                },
+                {
+                    "name": "goog:cached:topics",
+                    "value": "[null,1740761622417,3]"
+                },
+                {
+                    "name": "id5id",
+                    "value": "%7B%22signature%22%3A%22ID5_Anvcnnyz7GkqssRCybphPELtaIi7DZdEcXfq4VUEumyN0WnZj-5fFaJoO4desFOl3CV_rEZGnSOxZgDoUPsavEinyk4SkPFX1_pHwPvMJ8ieoiDHmEi4FwjV_Y_-AD2iUJXdxvRzlW5Bu6l8zb1LxcuhlEZqb7ZcRKexYdiIG-qN8tMpbcQ%22%2C%22created_at%22%3A%222025-02-28T16%3A53%3A42.225Z%22%2C%22id5_consent%22%3Atrue%2C%22original_uid%22%3A%22ID5*0yTmdW-sRyTMQjGNskwzf4yU7RdaPtfk3TVfxzw1Wer9_folrfjs2YC74FhmllPs%22%2C%22universal_uid%22%3A%22ID5*yU_HQsuS5aXcAkTonsRqJkPYTgDdrOJIEurpwoIWmZ79_RVFhJ_BSLbvCMm9BxH3%22%2C%22link_type%22%3A2%2C%22cascade_needed%22%3Atrue%2C%22privacy%22%3A%7B%22jurisdiction%22%3A%22other%22%2C%22id5_consent%22%3Atrue%7D%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%22l1bUHwiKxp9B8p9GwCKzMJFQm%2BZ2W9dkIZFQo2T%2FufA%3D%22%7D%2C%22cache_control%22%3A%7B%22max_age_sec%22%3A7200%7D%2C%22ids%22%3A%7B%22id5id%22%3A%7B%22eid%22%3A%7B%22source%22%3A%22id5-sync.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22ID5*yU_HQsuS5aXcAkTonsRqJkPYTgDdrOJIEurpwoIWmZ79_RVFhJ_BSLbvCMm9BxH3%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%22l1bUHwiKxp9B8p9GwCKzMJFQm%2BZ2W9dkIZFQo2T%2FufA%3D%22%7D%7D%5D%7D%7D%7D%7D"
+                },
+                {
+                    "name": "id5id_cst",
+                    "value": "zix7LPQsHA=="
+                },
+                {
+                    "name": "_cc_id",
+                    "value": "3da3558a0d59fa338a7b90cd9982bc8e"
+                },
+                {
+                    "name": "id5id_last",
+                    "value": "Fri, 28 Feb 2025 16:53:43 GMT"
+                },
+                {
+                    "name": "id5id_privacy",
+                    "value": "{\"jurisdiction\":\"other\",\"id5_consent\":true}"
+                },
+                {
+                    "name": "id5id_1206_nb_exp",
+                    "value": "Sun, 30 Mar 2025 16:53:42 GMT"
+                },
+                {
+                    "name": "panoramaId_expiry_exp",
+                    "value": "1740848021751"
+                },
+                {
+                    "name": "prev_post_type",
+                    "value": "post"
+                },
+                {
+                    "name": "codeEditorTheme",
+                    "value": "default"
+                },
+                {
+                    "name": "theme-mode",
+                    "value": "false"
+                },
+                {
+                    "name": "id5id_privacy_exp",
+                    "value": "Sun, 30 Mar 2025 16:53:43 GMT"
+                },
+                {
+                    "name": "IH_LGCL_TS",
+                    "value": "Fri, 07 Mar 2025 16:53:41 GMT"
+                }
+            ]
+        },
+        {
+            "origin": "https://ssum-sec.casalemedia.com",
+            "localStorage": [
+                {
+                    "name": "mirage_cache_manifest",
+                    "value": "{\"https://cdn.indexww.com/ht/htw-pixel.gif?Z8HqHBdaRDIAKTg1AAHPHAAA%265359\":1740761629438}"
+                }
+            ]
+        }
+    ]
+}

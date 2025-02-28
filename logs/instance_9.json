@@ -1,0 +1,116 @@
+[
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:52:30.958162",
+        "site": "https://stackoverflow.com",
+        "action": "visited",
+        "details": {
+            "url": "https://stackoverflow.com"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:53:16.492857",
+        "site": "https://stackoverflow.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Professional"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:53:19.723210",
+        "site": "https://stackoverflow.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 53.388178
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:53:26.699809",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:53:56.801461",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:54:03.246988",
+        "site": "https://www.learnpython.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "PHP"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:54:18.370950",
+        "site": "https://www.learnpython.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Map, Filter, Reduce"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:54:22.803016",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 63.046119
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:54:28.107606",
+        "site": "https://www.reddit.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.reddit.com"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:54:39.166635",
+        "site": "https://www.reddit.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:55:18.441577",
+        "site": "https://www.reddit.com",
+        "action": "error",
+        "details": {
+            "error": "ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n  -     2 \u00d7 waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying click action\n  -     - waiting 20ms\n  -     2 \u00d7 waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying click action\n  -       - waiting 100ms\n  -     52 \u00d7 waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -      - retrying click action\n  -        - waiting 500ms\n"
+        }
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:55:18.461914",
+        "site": "https://www.reddit.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 8,
+        "timestamp": "2025-02-28T21:55:22.541665",
+        "site": "https://www.reddit.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 59.722676
+        }
+    }
+]

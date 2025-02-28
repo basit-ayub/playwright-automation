@@ -1,0 +1,123 @@
+[
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:52:36.934578",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:52:58.173379",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:53:07.327775",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:53:25.559662",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:53:27.679614",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 61.038926
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:53:30.273161",
+        "site": "https://stackoverflow.com",
+        "action": "visited",
+        "details": {
+            "url": "https://stackoverflow.com"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:54:16.992140",
+        "site": "https://stackoverflow.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 49.289806
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:54:17.671678",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:54:28.388469",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Learn CSS"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:54:38.293471",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Try it Yourself"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:54:46.109964",
+        "site": "https://www.w3schools.com",
+        "action": "click",
+        "details": {
+            "tag": "A",
+            "text": "Exercises "
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:55:23.958858",
+        "site": "https://www.w3schools.com",
+        "action": "error",
+        "details": {
+            "error": "ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n  -     2 \u00d7 waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div id=\"exercises_list\" class=\"w3-row-padding w3-bar-block\">\u2026</div> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -     - retrying click action\n  -     - waiting 20ms\n  -     - waiting for element to be visible, enabled and stable\n  -     - element is visible, enabled and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <div id=\"exercises_list\" class=\"w3-row-padding w3-bar-block\">\u2026</div> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -   2 \u00d7 retrying click action\n  -       - waiting 100ms\n  -       - waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <svg fill=\"none\" viewBox=\"0 0 17 16\" id=\"tnb-google-search-icon\" xmlns=\"http://www.w3.org/2000/svg\">\u2026</svg> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -   13 \u00d7 retrying click action\n  -        - waiting 500ms\n  -        - waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <div id=\"exercises_list\" class=\"w3-row-padding w3-bar-block\">\u2026</div> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -      - retrying click action\n  -        - waiting 500ms\n  -        - waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <div id=\"exercises_list\" class=\"w3-row-padding w3-bar-block\">\u2026</div> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -      - retrying click action\n  -        - waiting 500ms\n  -        - waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <svg fill=\"none\" viewBox=\"0 0 17 16\" id=\"tnb-google-search-icon\" xmlns=\"http://www.w3.org/2000/svg\">\u2026</svg> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -      - retrying click action\n  -        - waiting 500ms\n  -        - waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <svg fill=\"none\" viewBox=\"0 0 17 16\" id=\"tnb-google-search-icon\" xmlns=\"http://www.w3.org/2000/svg\">\u2026</svg> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -   2 \u00d7 retrying click action\n  -       - waiting 500ms\n  -       - waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div id=\"exercises_list\" class=\"w3-row-padding w3-bar-block\">\u2026</div> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -   - retrying click action\n  -     - waiting 500ms\n  -     - waiting for element to be visible, enabled and stable\n  -     - element is visible, enabled and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <svg fill=\"none\" viewBox=\"0 0 17 16\" id=\"tnb-google-search-icon\" xmlns=\"http://www.w3.org/2000/svg\">\u2026</svg> from <div id=\"top-nav-bar\" class=\"classic full-screen\">\u2026</div> subtree intercepts pointer events\n  -   - retrying click action\n  -     - waiting 500ms\n"
+        }
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:55:23.974639",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 6,
+        "timestamp": "2025-02-28T21:55:28.308865",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 71.297416
+        }
+    }
+]

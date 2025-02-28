@@ -1,0 +1,123 @@
+[
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:52:31.349797",
+        "site": "https://stackoverflow.com",
+        "action": "visited",
+        "details": {
+            "url": "https://stackoverflow.com"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:17.986324",
+        "site": "https://stackoverflow.com",
+        "action": "click",
+        "details": {
+            "tag": "A",
+            "text": "r-sf"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:24.904166",
+        "site": "https://stackoverflow.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 58.808211
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:26.235104",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:35.800063",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "ASP"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:49.067988",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:58.632483",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:53:58.648450",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:54:14.353093",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 49.425218
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:54:19.631320",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:54:40.302821",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:54:50.294113",
+        "site": "https://www.learnpython.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Decorators"
+        }
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:55:04.249516",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 2,
+        "timestamp": "2025-02-28T21:55:08.298809",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 53.924713
+        }
+    }
+]

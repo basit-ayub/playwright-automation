@@ -1,0 +1,909 @@
+{
+    "cookies": [
+        {
+            "name": "_GRECAPTCHA",
+            "value": "09AP_l5mP1ILBv-x5noNW9KD6tSGL9SWhI_i5ba589IlSZiqjXHgzKS0LKZaZ1oblRdjgZWM7GjZufmyZz8UKA4tY",
+            "domain": "www.google.com",
+            "path": "/recaptcha",
+            "expires": 1756313622.926659,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "session",
+            "value": "eyJ1aWQiOnsiIGIiOiJaV1ZqT0dJek1qVXlPVGt5T1dZNVlUVmtPREZqT0RnME5ERXpZek0yT1dVPSJ9fQ.Z8HdVw.WO3Jla6zpNFQjft8Ig4Y4vueW3g",
+            "domain": "www.learnpython.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "E18pj09gqO3x_bCOWif75pBNoqADUwK9N_OFhFN2uXk-1740758361652-0.0.1.1-604800000",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1212507451.1740758365",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775321558.596691,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.116510458.1740758365",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1740847958,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "DSID",
+            "value": "NO_DATA",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1740761966.760831,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUnISUJsYMRWW9ZAgtBZ2FyHJ7IhkATJPvXs98bTQYqkQpEBIn0AhgxJQJocCug",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1775318366.1668,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ar_debug",
+            "value": "1",
+            "domain": ".googleadservices.com",
+            "path": "/",
+            "expires": 1748537577.296713,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "suid",
+            "value": "D087D52CBE7B4FD1B6547C3EB9284D10",
+            "domain": ".simpli.fi",
+            "path": "/",
+            "expires": 1772380766.974096,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "mc",
+            "value": "67c1dd5e-e9b88-8a4be-f087e",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1774972767.141525,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sp",
+            "value": "CggI2WUSAxDcDg==",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1748534367.141606,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "g",
+            "value": "zJoDLHrDNyuoXSf8BYpF_1740758366867",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772294367.295856,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ts",
+            "value": "1740758366",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772294367.295921,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "eud",
+            "value": "H4sIAAAAAAAA_-OSMXR2dA129UgtriwoDvbISy7wMjEJKc6OTIyojAziNTQ3MTA3tTA2Mzc0Mn3FiMoHAEB2s3g9AAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": 1774454367.356448,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "rud",
+            "value": "H4sIAAAAAAAA_-MSNjE0NLEwNTa0tDQwtjCyNDA0NhfiM9Qtyqo0c4n3yDFMDs8EAIXt_QIlAAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": 1774454367.356614,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ruds",
+            "value": "H4sIAAAAAAAA_-MSNjE0NLEwNTa0tDQwtjCyNDA0NhfiM9Qtyqo0c4n3yDFMDs8EAIXt_QIlAAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "euds",
+            "value": "H4sIAAAAAAAA_-OSMXR2dA129UgtriwoDvbISy7wMjEJKc6OTIyojAQAFY_Luh4AAAA",
+            "domain": ".rfihub.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__mguid_",
+            "value": "ff296726b6b01c682qa1w500m7oyl4lg",
+            "domain": ".admaster.cc",
+            "path": "/",
+            "expires": 1772294367.56331,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cu",
+            "value": "9c42f5aa-0f4c-4f79-af2e-7434876b1dd3|1740758367474",
+            "domain": ".ipredictive.com",
+            "path": "/",
+            "expires": 1772294367.666718,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__mguid_",
+            "value": "ff2967269df901c32ih6m000m7oyl4ov",
+            "domain": ".mediago.io",
+            "path": "/",
+            "expires": 1772294367.687118,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "uuid",
+            "value": "7ab467c1-dd5f-4f00-9747-90be9856c618",
+            "domain": ".mathtag.com",
+            "path": "/",
+            "expires": 1774713568.078636,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "mt_mop",
+            "value": "4:1740758367",
+            "domain": ".mathtag.com",
+            "path": "/",
+            "expires": 1743350368.078737,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "UID",
+            "value": "OPUdf1071b8c5b34dc59d3b248ebd481aab",
+            "domain": ".adx.opera.com",
+            "path": "/",
+            "expires": 1772294368.085441,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "idsp_c",
+            "value": "a5498cfc-590d-4926-adbb-1aae6db6e1ec",
+            "domain": ".inmobi.com",
+            "path": "/",
+            "expires": 1748534368.590808,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.669497,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.669574,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.669604,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.669628,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyDiuoe-BjABOgQTJSkkQgSRsOpp.Uy8rySEF8pBr863MwVxfZP%2FOil8JKPqrNfVRc6jTcrc",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.66965,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyDiuoe-BjABOgQTJSkkQgSRsOpp.Uy8rySEF8pBr863MwVxfZP%2FOil8JKPqrNfVRc6jTcrc",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294370.669674,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "prov",
+            "value": "0e7baa3c-a2ed-44b4-ad31-154004b5cedb",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1772294491.909981,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cflb",
+            "value": "0H28vFHtoAR1ohjxFgDZBwZ5H5NWURYxAX8XmbWn1TA",
+            "domain": "stackoverflow.com",
+            "path": "/",
+            "expires": 1740841209.144875,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "d3mrODiq4jGI6T3fym6BhAWGw5DJ8Bp7yGw_HssP2xo-1740758409062-0.0.1.1-604800000",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "3MZ4V7RPfxIikpWy1aQV45twc31Ee_8zG_EG3a.b5vU-1740758410086-0.0.1.1-604800000",
+            "domain": ".sstatic.net",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "v.pcg.Ynnzl2V9PlO6cAvP2cPGBmJJ4PxSo_PhCKdio-1740758410917-0.0.1.1-604800000",
+            "domain": ".i.sstatic.net",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cf_clearance",
+            "value": "Wk.z7EWDZFwKmUpEx3OotXqz0Zusff5AQrMEtilloMg-1740758412-1.2.1.1-nu_o4YJ83yqgqiZTM8m08gdJHHWzyBjNlTEkWi.HZP0gT8GG8guagREtzYr0ApOVve4K3HeKObcyjXztMIvFU_jWRxfFSRjEc9r2axnMe2WsxAjLUBpbLB6OVfb3x6fUk8Erh9R_PCVQid9NG2OmOjUdJwzGK78.UnLli8_0CimAaUtUm0zsXdh4UZ7xRd8aVb7LKtOrhdJVoJ1EZhaHfy6Yl7DE0EUVE_ZkKizNdn9wWAibXP4WaGVPWjQLfcd4eJDCJ8ICJt4c_0kr9f9k94StyJu2aoYyYUi_yQY_84HVo57q95L4BQ3xXXGtDVW_Njcp5xyEXbNS4U1.hJCPPU5KFfEVdEaYMY2PRKNQWcrC_oddN2buDIULsC0H9_CXToJ4rTNfVWFAPisLVlOaTOLm3nzcFG.L1nqTAu5d4f4",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1772294412.519142,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=246307415e1b7261:T=1740758412:RT=1740758412:S=ALNI_Ma0X36hDd8jxCZsNijzoGclYRExag",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1774454412,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000fff268b71d9:T=1740758412:RT=1740758412:S=ALNI_Max1gTpAeSjsUXEu2C_uZ-28tCGsw",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1774454412,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eoi",
+            "value": "ID=f35736196e937313:T=1740758412:RT=1740758412:S=AA-AfjaJue3Fa-Or3GVhHTsuHvZ5",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1756310412,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "OptanonConsent",
+            "value": "isGpcEnabled=0&datestamp=Sat+Mar+01+2025+00%3A01%3A33+GMT%2B0800+(Hong+Kong+Standard+Time)&version=202409.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e62d39b-da80-49bd-963f-fb9f8237dff4&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fstackoverflow.com%2Fquestions&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+            "domain": ".stackoverflow.com",
+            "path": "/",
+            "expires": 1772294493,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "SESS93b6022d778ee317bf48f7dbffe03173",
+            "value": "01a8bdb2d6baa8c0a4abdd3a13622259",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1742758493.856009,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.1188479963.1740758495",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1748534495,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.28857318.1740758495",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1740844895,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "li_sugr",
+            "value": "8f83fe26-f140-4abb-be5a-c065a3222955",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1748534496.653793,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bcookie",
+            "value": "\"v=2&a189b81f-c911-4f56-8487-b65581e3df11\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1772294496.654025,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "lidc",
+            "value": "\"b=OGST04:s=O:r=O:a=O:p=O:g=3447:u=1:x=1:i=1740758495:t=1740844895:v=2:sig=AQE35MOzrlU1TU6kpxuZV49emWa5XW3X\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1740844896.542023,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "UserMatchHistory",
+            "value": "AQIpoet9dsIX3gAAAZVNSrGEf5O6xh1P2geQQ9alL-HapeD7L2AIaG2XpwwV6jBs9C08fBUq1d1udQ",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350495.848178,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "AnalyticsSyncHistory",
+            "value": "AQLelKvApPuAIAAAAZVNSrGELMDe8a6LtCcsYK68VWem8N2koimw1g1hVCGHr3FQUOds53Tsj2gikZCvvwjDVg",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350495.84822,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_C8RQQ7NY18",
+            "value": "GS1.1.1740758495.1.0.1740758495.60.0.0",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775318495.965283,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.961022581.1740758495",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775318495.966016,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "bscookie",
+            "value": "\"v=1&20250228160136ea72f143-e26a-44a9-8dba-b38cf6fc5662AQH7JPhgvJLEK2I_-7H0-LCuHULuV4JG\"",
+            "domain": ".www.linkedin.com",
+            "path": "/",
+            "expires": 1772294497.326925,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "YQ.VcNdLfvBig8xyg78AAQ5u0kFmYdJ21uJ2WmKTzsk-1740761551-1.0.1.1-snpHlRhBxAWYsObZslwoJYfdLpUrvWr2Ar5wy4UeScS5zCiOvyLR6rf779qXHD0Qz3taR.yB0fvvGCBcsF6p2sf8ISGo2DueUeUqdrZmpvE",
+            "domain": ".www.learnpython.org",
+            "path": "/",
+            "expires": 1740763350.970583,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "DLfTHdN5lcQ46fQdDwhGHyxm.6sFGEI_j90mon80Vbg-1740761554-1.0.1.1-UEDSF_MUIirtFYlS.EodEcHn6iqdxMRwrBHMKt_cW937D1trEtR_vHN5nJxNT7Xqmgcs03WshNobQu1DLI5mD2XU25Yy46IK_VRvsRukpNQ",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": 1740763353.819595,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cf_clearance",
+            "value": "KEBf4DJ_n66Ivc6q3aStBI94eCzb9wSYJxO6KFYA4m0-1740761555-1.2.1.1-q2fNVoZ_3rfvdv7ovFBmSMiM2jIG6dNeIeJaf55MOkqQvis359TbzWvXHLyF99Wo2JJwOGz9b7MxqMnHTrrR_178C39tHqxrw2MFF_Y9CjvJg25mFEq98xW6gyLlkAUH3XnBh65qRK9SjKKp3s_swyj5_BpBqK72.OONYSR5dqCFoJ9jxyeLNltJ3vTzMRL.AC7.QTpD9uBtlGdRdSCXiBr7M._j6EAkzN406GqoknCyjrLkB7y2tSHA9xo8L1Yn9u4w2Vs_PA10Ww8SnWeXM7ZHAMHEyyjoRbmLO8t4aBqPDrMyTODwA6166BPPvZbso3sGhVaq6T.9HckkICCZ7DJ184FV0F7wy6mq8cndhBMTNRsDNDN7MaA7R2riGvGvIR1V1HaLLdZyZOpFskj5dqWXHpu2ljHUm8aNPwouyOA",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": 1772297555.169614,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=3b2d881dd1736fc6:T=1740758363:RT=1740761555:S=ALNI_MbclNjKatzG3KcsCJ3_fAhJ8MJVHQ",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454363,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000fff26978244:T=1740758363:RT=1740761555:S=ALNI_MYIlbRwXdWfqdxm-rWPNgBNz6rvSg",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454363,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eoi",
+            "value": "ID=03c6d417f8505e08:T=1740758363:RT=1740761555:S=AA-AfjZ0_fj6rxLN8FOnYbzvpQlr",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1756310363,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "PYgyZWfQWOH5KSJh.fGiQtCHRqLuSYLcAmjqfNrIDOE-1740761556-1.0.1.1-L6TmkrLZW4bM9djkchZaiyZDbyLVDc6gIoYdU6lI_4QKFLGA0TF7Jw12Cspaj6_yBv8uCKJfcnokwT6.bxieGe1lpdZhTKlMGfqCBh64e6o",
+            "domain": ".temu.com",
+            "path": "/",
+            "expires": 1740763356.208117,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDID",
+            "value": "20628f91-ca28-4894-9998-4a926422a44d",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772297557.303468,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAESFQoGZ29vZ2xlEgsI4vOJ7MqI7D0QBRgFIAMoAjILCKKbhY_hiOw9EAU4AQ..",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772297557.303598,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_tracker",
+            "value": "%7B%22UUID%22%3A%227CF95C63-64CF-4B36-1FBA-3D711A17AA4F%22%7D",
+            "domain": ".travelaudience.com",
+            "path": "/",
+            "expires": 1774716756.414937,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "zuid",
+            "value": "IgaWNFM6oKlo3MMq-gv2",
+            "domain": ".zemanta.com",
+            "path": "/",
+            "expires": 1772297559.912212,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_pangle",
+            "value": "2tg6qDFhbLXJLYpI8PWzFZQo6Iw",
+            "domain": ".pangle-ads.com",
+            "path": "/",
+            "expires": 1774457558.160164,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bito",
+            "value": "AAHwZ07Pg9QAABV4haL42Q",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1774871558.497907,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bitoIsSecure",
+            "value": "ok",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1774871558.498014,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_LJCY7V2Z42",
+            "value": "GS1.2.1740761559.2.0.1740761559.60.0.0",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775321559.506099,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "obuid",
+            "value": "4d2ea1c4-2bf1-46d5-b286-ff6d7ff7c95c",
+            "domain": ".outbrain.com",
+            "path": "/",
+            "expires": 1772297559.648728,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "Z6VHZ8KG.vHvAUYP5LVQQNDcV89yToQm8TsqzBbwGZM-1740761578-1.0.1.1-ZgSQ4AK.qTyzd7gaUWM25IbVsCjRML8jfwAYG7KtoJu6WU_MxDVju8OBUegJcSbJ9GrEt9vihubGU5oD7c94VOMuOvcOgtAEdPeD387nU9c",
+            "domain": ".codingforkids.io",
+            "path": "/",
+            "expires": 1740763378.242506,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "rdt",
+            "value": "b2db9042dfa61cebd57eccd35b974add",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "edgebucket",
+            "value": "tVX03XAfexD5d0wBDP",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1775321615.630374,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "loid",
+            "value": "000000001k8558okbb.2.1740761616135.Z0FBQUFBQm53ZW9RQUVlT0tRZFVDOFFWd3BqdVBZRldtbVJXazVPeVBILUdFNFJTaGg4cFprZ1JnazZCREMtMDh1cGdlZUt1amtqLXlPbklRb0tXZFo4VTVzTHZsSDFjTXZlSzh2OHRsT2tpRXNBSzZibDVyV1lsSmx3OV9TdVdEOW4wZl9Qak1JcDY",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1775321616.039788,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "token_v2",
+            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwiZXhwIjoxNzQwODQ4MDE2LjEzNTkxNSwiaWF0IjoxNzQwNzYxNjE2LjEzNTkxNSwianRpIjoiMVlaakFGMlVEYU5wc0x1bmQtcXBSdjNjUUlZRjRBIiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml8xazg1NThva2JiIiwibGNhIjoxNzQwNzYxNjE2MTM1LCJzY3AiOiJlSnhra2RHT3REQUloZC1GYTVfZ2Y1VV9tMDF0Y1lhc0xRYW9rM243RFZvY2s3MDdjRDRwSFA5REtvcUZEQ1pYZ3FuQUJGZ1RyVERCUnVUOW5MbTNnMmlOZTh0WXNabkNCRm13RkRya21MR3NpUVFtZUpJYXl4c21vSUxOeUZ5dXRHTk5MVDBRSnFoY01yZUZIcGMyb2JrYmk1NmRHRlc1ckR5b3NWZmwwdGpHRkxZbnhqY2JxdzJwdUM2bk1rbkxRdmtzWHZUak45VzM5dm16X1NhMEo4T0txdW1CM2hsSkNHNHNmcGltM2Q5VGs1NnRDeGExOTNxUTJ1ZDYzSzU5MWl3ME83ZWY2X2xySXhtWFkyaC1KdnQzMXktaEE0ODhMelBxQUVhczRVY1pkbVFkX2xVSFVMbWdKR01KNHRNSTVNcmwyMzhKdG12VHY4YnRFejk4TS1LbU5feldETlJ6Q2VMUXBfSDFHd0FBX184UTFlVFIiLCJmbG8iOjF9.lhIh0d83lI1-7QnSOWUQ8ZgsMhkVLkECqYBAxSfZubYAG8tdFFGL4u1sf-QPt_Gx9IFrmL5cH5grf6DC0tILbFedB6egeVq0t9UapkgzAWAAzNQfaI8DkuI91h4SHle6bQJPrIOUQjIzpkhL2ezlUvB6E2U234CujQiRKvw2h71JI95WtF8KCunoz_ndmjoOdSETqE6zOFiBTKH6OLfcsArET_2qQw3iX6earKBAdjf7wVaNuDBSKOuB8Wh_rn6s41R-DL2lOWYOdwNn5LsZr7Wp-rZYHSGT-N_M9-soqx2JXe1pGZET795E-CgyIUriERpomR3GORMYsRYoPN7suw",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1740848016.039958,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "csv",
+            "value": "2",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1775321616.040035,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "rlas3",
+            "value": "NTQUHPo+Ei2lMPQguqqJNLQ3lv4QU86VHF5slr/LYps=",
+            "domain": ".rlcdn.com",
+            "path": "/",
+            "expires": 1772297617.200884,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pxrc",
+            "value": "CJHUh74GEgUI6AcQABIGCNzdKhAA",
+            "domain": ".rlcdn.com",
+            "path": "/",
+            "expires": 1745945617.200974,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "csrf_token",
+            "value": "19d6435186cf7cae4308fb335e1ca32d",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Strict"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "sk5U5hUl7yAMQjGrcWbaTCh_YxCQAqFyRv2bA_H0i3I-1740761676-1.0.1.1-nB0f1WxU2iY_OPAPEGdWMjebpZuFKS87MT4kixf77IKw8Gd_Ej.xrJHiQnUtsVnsnF8ywo3LiSGCxklRzZctiS5L1EaQU_zIrxgWlOZNN6c",
+            "domain": ".snigelweb.com",
+            "path": "/",
+            "expires": 1740763476.047539,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "session_tracker",
+            "value": "rcohlilkgfkqlgnaoh.0.1740761676181.Z0FBQUFBQm53ZXBNVk1Ud2pNbkhUTGtUSVlCT2xwZlZpdnRzSHpfc0ZUUXdORkdxS0c5THFkQVctdFFlalhtd3BrcHZ4b0ktODQzYzhkMmdVR0VpTmVhdHZaMFRvWEMxR2VJUmwzVV9RMTEtV3oxdzZKeEZQREk5T3U5c1FkRTYxbHRxak5mVTM3Y3A",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_9YNMTB56NB",
+            "value": "GS1.1.1740761677.1.0.1740761677.0.0.0",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321677.76058,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.2109048842.1740761678",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321677.761176,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "https://www.w3schools.com",
+            "localStorage": [
+                {
+                    "name": "preferredmode",
+                    "value": "null"
+                },
+                {
+                    "name": "snconsent_geo",
+                    "value": "eyJjb3VudHJ5IjoicGsiLCJyZWdpb24iOiJpcyJ9"
+                },
+                {
+                    "name": "snconsent_geo_exp",
+                    "value": "1740765277165"
+                },
+                {
+                    "name": "preferredpagemode",
+                    "value": "null"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.codechef.com",
+            "localStorage": [
+                {
+                    "name": "li_adsId",
+                    "value": "8aff06ed-2290-419f-9a82-1edaa493c31a"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.learnpython.org",
+            "localStorage": [
+                {
+                    "name": "google_adsense_settings",
+                    "value": "{\"ca-pub-3723950136133694\":[\"ca-pub-3723950136133694\",[[1]]]}"
+                },
+                {
+                    "name": "__lsv__",
+                    "value": "[1740761576879]"
+                },
+                {
+                    "name": "google_ama_config",
+                    "value": "[[[[null,1,null,[],null,null,\"DIV#main>DIV.row\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.clearfix\"],1,[\"10px\",\"16px\",1],[2],null,[],[],1,[],[]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"NAV\"],4,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"16px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>DIV.bg-light>DIV.container-fluid.bg-light\"],1,[\"10px\",\"30px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[5]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"H1\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]]],[],[1740847955530],\"20250226_093558\",[],[[[[null,3,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,H3,LI,P\"]],[[null,1,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>OL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV.clearfix\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]],[[null,2,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,0,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]]]],[[null,[1,3,2],null,\"3514846746\",[],[],[0,2],null,null,[null,null,2,11,350,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1219059114],null,null,[1740744824562],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+                }
+            ]
+        },
+        {
+            "origin": "https://learnpython-ads.datacamp.com",
+            "localStorage": [
+                {
+                    "name": "lastExternalReferrer",
+                    "value": "other"
+                },
+                {
+                    "name": "lastExternalReferrerTime",
+                    "value": "1740761554918"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.google.com",
+            "localStorage": [
+                {
+                    "name": "rc::a",
+                    "value": "MWl3dXo4ajE2dzJiOHU="
+                },
+                {
+                    "name": "rc::f",
+                    "value": "0aAPHZzeeOCdFBxmFlwGfD7mAWJSWKLZeayd2jsCPFwKsz7aXQpq4XH32Z6Zdxh8E2v1f4p6k"
+                }
+            ]
+        },
+        {
+            "origin": "https://stackoverflow.com",
+            "localStorage": [
+                {
+                    "name": "se:fkey",
+                    "value": "688e4b336b55efafdd3309f1b8e29748fee8aeb68307f0c34a5781f4b0c82ddc,1740758409"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.reddit.com",
+            "localStorage": [
+                {
+                    "name": "events-buffer",
+                    "value": "[[{\"post\":{\"archived\":false,\"author_id\":\"t2_1h324bybbp\",\"created_timestamp\":1739411235985,\"domain\":\"mathnasium.com\",\"id\":\"t3_1io7zwc\",\"nsfw\":false,\"promoted\":true,\"spoiler\":false,\"title\":\"Real understanding, not just extra homework, is the key to math success. Mathnasium helps kids build a solid foundation and develop a love for learning. Free assessment at participating locations.\",\"type\":\"video\",\"number_comments\":0,\"url\":\"/user/mathnasium/comments/1io7zwc/real_understanding_not_just_extra_homework_is_the/\"},\"screen\":{\"view_type\":\"classic\"},\"subreddit\":{},\"action_info\":{\"position\":1,\"page_type\":\"popular\"},\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"new_award\":{\"is_content_eligible\":false},\"source\":\"post\",\"action\":\"consume\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675655,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"request\":{\"canonical_url\":\"\"}},{\"post\":{\"archived\":false,\"author_id\":\"t2_80kmkxzb\",\"created_timestamp\":1740688792919,\"domain\":\"v.redd.it\",\"id\":\"t3_1izpvm8\",\"nsfw\":false,\"promoted\":false,\"score\":49863,\"spoiler\":false,\"subreddit_id\":\"t5_2qh9k\",\"subreddit_name\":\"r/law\",\"title\":\"UK Prime Minister Keir Starmer corrects VP JD Vance on free speech in the United Kingdom\",\"type\":\"video\",\"number_comments\":6049,\"url\":\"/r/law/comments/1izpvm8/uk_prime_minister_keir_starmer_corrects_vp_jd/\"},\"screen\":{\"view_type\":\"classic\"},\"subreddit\":{\"name\":\"r/law\",\"id\":\"t5_2qh9k\"},\"action_info\":{\"position\":4,\"page_type\":\"popular\"},\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"new_award\":{\"is_content_eligible\":true},\"source\":\"post\",\"action\":\"consume\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675656,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"request\":{\"canonical_url\":\"\"}},{\"post\":{\"archived\":false,\"author_id\":\"t2_117lky\",\"created_timestamp\":1740710731551,\"domain\":\"self.SeveranceAppleTVPlus\",\"id\":\"t3_1izxmfl\",\"nsfw\":false,\"pinned\":true,\"promoted\":false,\"score\":3810,\"spoiler\":false,\"subreddit_id\":\"t5_5vinfe\",\"subreddit_name\":\"r/severanceappletvplus\",\"title\":\"Severance - 2x07 \\\"Chikhai Bardo\\\" - Post-Episode Discussion\",\"type\":\"multi_media\",\"number_comments\":17518,\"url\":\"/r/SeveranceAppleTVPlus/comments/1izxmfl/severance_2x07_chikhai_bardo_postepisode/\"},\"screen\":{\"view_type\":\"classic\"},\"subreddit\":{\"name\":\"r/severanceappletvplus\",\"id\":\"t5_5vinfe\"},\"action_info\":{\"position\":3,\"page_type\":\"popular\"},\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"new_award\":{\"is_content_eligible\":true},\"source\":\"post\",\"action\":\"consume\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675656,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"request\":{\"canonical_url\":\"\"}},{\"post\":{\"archived\":false,\"author_id\":\"t2_4dxpzq1h\",\"created_timestamp\":1740751652232,\"domain\":\"v.redd.it\",\"id\":\"t3_1j08gno\",\"nsfw\":false,\"promoted\":false,\"score\":28596,\"spoiler\":false,\"subreddit_id\":\"t5_2uqcm\",\"subreddit_name\":\"r/mademesmile\",\"title\":\"A Dad giving his daughter away on her wedding day.\",\"type\":\"video\",\"number_comments\":512,\"url\":\"/r/MadeMeSmile/comments/1j08gno/a_dad_giving_his_daughter_away_on_her_wedding_day/\"},\"screen\":{\"view_type\":\"classic\"},\"subreddit\":{\"name\":\"r/mademesmile\",\"id\":\"t5_2uqcm\"},\"action_info\":{\"position\":2,\"page_type\":\"popular\"},\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"new_award\":{\"is_content_eligible\":true},\"source\":\"post\",\"action\":\"consume\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675657,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"request\":{\"canonical_url\":\"\"}},{\"id\":\"award_diamonds_forever\",\"post\":{\"archived\":false,\"author_id\":\"t2_g2fh9fd\",\"created_timestamp\":1740749281084,\"domain\":\"v.redd.it\",\"id\":\"t3_1j07n8o\",\"nsfw\":false,\"promoted\":false,\"score\":33536,\"spoiler\":false,\"subreddit_id\":\"t5_2qh9k\",\"subreddit_name\":\"r/law\",\"title\":\"All Republicans voted NO to save Medicaid from cuts and NO to stopping tax cuts for the rich.\",\"type\":\"video\",\"number_comments\":1429,\"url\":\"/r/law/comments/1j07n8o/all_republicans_voted_no_to_save_medicaid_from/\"},\"screen\":{\"view_type\":\"classic\"},\"subreddit\":{\"name\":\"r/law\",\"id\":\"t5_2qh9k\"},\"action_info\":{\"position\":0,\"page_type\":\"popular\"},\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"new_award\":{\"id\":\"award_diamonds_forever\",\"is_content_eligible\":true},\"source\":\"post\",\"action\":\"consume\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675657,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"request\":{\"canonical_url\":\"\"}},{\"action_info\":{\"page_type\":\"popular\"},\"screenview_id\":\"c48e1d84-b831-4065-a1c1-7316a412376b\",\"source\":\"global\",\"action\":\"leave\",\"noun\":\"app\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1740761675658,\"correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\",\"feed\":{\"correlation_id\":\"f3793233-e7c0-4a54-88d3-6f31ce1c0d99\"},\"request\":{\"canonical_url\":\"\"}}]]"
+                },
+                {
+                    "name": "_grecaptcha",
+                    "value": "09AP_l5mMbOGK32vnKkuypGZHTp2mOW7Wb3HCco2krnHxjlMBkiAlB8kVZIkwv8nqllOSdteDptpR08xBIIM7YVvq-lZoyx2ydK-7XyLe0ZCX5_bGIIZPaYVARi39c2zw0"
+                },
+                {
+                    "name": "good-visit-feeds-search",
+                    "value": "{\"key\":\"3ed556f6-d8d1-4ef3-b68d-203ddbb3826d\",\"source\":\"popular\",\"expires\":\"2025-02-28T16:54:40.662Z\",\"eventPayload\":{\"timer\":{\"referrer_correlation_id\":\"2b179e31-9bf0-4cd9-a1d9-5b932d88b8e4\"}}}"
+                },
+                {
+                    "name": "time-before-unfocus",
+                    "value": "60572.60000002384"
+                }
+            ]
+        }
+    ]
+}

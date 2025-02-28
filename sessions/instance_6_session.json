@@ -1,0 +1,694 @@
+{
+    "cookies": [
+        {
+            "name": "SESS93b6022d778ee317bf48f7dbffe03173",
+            "value": "e6b3d306a5d3acdc5eb95703f394e789",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1742758432.616005,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.435533242.1740758434",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1748534434,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.2000052448.1740758434",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1740847954,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "li_sugr",
+            "value": "ed326fc4-4c41-40a2-985e-cedfc3f374e8",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1748537553.641273,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bcookie",
+            "value": "\"v=2&6f44bcd1-93a2-4fc5-8d0c-c6b2a55ef4af\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1772297553.641451,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "lidc",
+            "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3394:u=1:x=1:i=1740758433:t=1740844833:v=2:sig=AQHzewZi5K1u5tkmN96uswTedyp1pZNO\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1740844834.062815,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "UserMatchHistory",
+            "value": "AQKT4XGR9_2jVAAAAZVNScFf-MgbCDHUhaFGUCvkchNcKZqB50loK2FROXzxLdkuTu1raUsxqlrQZA",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350434.362296,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "AnalyticsSyncHistory",
+            "value": "AQIqx9w9wizC9wAAAZVNScFfxewdaiErBWenYRZfyzk0ON_QOZhH82BTN9XUa0IOGfZfcZFhXTR8OdlBpzdMzA",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1743350434.362315,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bscookie",
+            "value": "\"v=1&202502281600340c2319ac-c6d4-47db-8e4d-86de4bc7209bAQFjkdKaOJ6baUthZ27UXTvr4VaVgFu0\"",
+            "domain": ".www.linkedin.com",
+            "path": "/",
+            "expires": 1772294435.102265,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "session",
+            "value": "eyJ1aWQiOnsiIGIiOiJOR1E1WXpZek1qSTJNbU0yWkdVeU0yVXhORFptTkRKak9EWXdOVFJqWVRnPSJ9fQ.Z8Hdzg.ySyP_O1wTEqxxuOc2zFAzs56-UM",
+            "domain": "www.learnpython.org",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_cfuvid",
+            "value": "w.QkTuPr8xVVjA6VKU62VjbRKm5mivOGnbCtWyEiKvM-1740758480791-0.0.1.1-604800000",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cf_clearance",
+            "value": "l9a0vtp4Mgwi.k8fQOXqsm5nn0EiLK8W98CRUwLBYfM-1740758481-1.2.1.1-dXcn34e2YQ.93uG1.nE4lWAY240be.OlBr49pkU1FtAyG73O1tL7E.5P_.DsxShglsFbuw_CjJqlh_4N6XdaJwZ3vjssyYoxL2jRY.vpD4hDD8HpOgbL9gk9MA6EZeIJg4iF5oLqNB9sU8JFIR_7gvvsvy9UH2ltVx6Dp9tw4wPA9hTBFG2XaNKYCT3bdoRF4AnMbnbmR1X2zjbRb8PQRWqCVOSBMupVJgMVcW0cH7Pep7r5oFeGOBhfnK2O6H1af2fUnCtQ1oK6SPVBmSMoKEv1DOWuALNyfgKVkKvhOpE8aCWkf7iGUos1XDgFcFczgC6GsunwGRYTovV6b0r2ifqMP5710z5PhcGwyKIFNda3XTBAMs_9i9tpkhBgnUlUvKKOJsHJJ7qZ0vfBMbsMKavhq_2ddb9zyfpEd0vrKN0",
+            "domain": ".datacamp.com",
+            "path": "/",
+            "expires": 1772294481.349829,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUkNRLuOCTVjrw0giYfKYHqGvZ28dZdsXrF-rXYSdorVGl-iksLSN0TJN3hKemg",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1775318482.550819,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.486765619.1740758483",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775318482.689026,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.802179059.1740758483",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1740844882,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_LJCY7V2Z42",
+            "value": "GS1.2.1740758483.1.0.1740758483.60.0.0",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1775318483.663991,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "tt_viewer",
+            "value": "e586cbd1-6d71-4a2a-9f34-3addadc2d5cb",
+            "domain": ".teads.tv",
+            "path": "/",
+            "expires": 1772208083.893326,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_auid",
+            "value": "GzPmZIzLBuSI0XoG093BZw",
+            "domain": ".c.appier.net",
+            "path": "/",
+            "expires": 1772294483.911118,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_gu",
+            "value": "CAESEOf8qGlb5JOIfiKldMpVtEA",
+            "domain": ".c.appier.net",
+            "path": "/",
+            "expires": 1743350483.911267,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=4ff2140cb7aa3540:T=1740758481:RT=1740758481:S=ALNI_MbMSbycQLnuCIbcNgH1_9WSyQevpg",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454481,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000fff2619993c:T=1740758481:RT=1740758481:S=ALNI_Mb53CZT8lWa87i9FXyffwmWlUXUpw",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1774454481,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__eoi",
+            "value": "ID=6b5054788e80a28b:T=1740758481:RT=1740758481:S=AA-AfjaJ8-xE2grZSigiQFSD9T5Z",
+            "domain": ".learnpython.org",
+            "path": "/",
+            "expires": 1756310481,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__mguid_",
+            "value": "ff296726b90c4f7e2h8r2300m7oynmpu",
+            "domain": ".mediago.io",
+            "path": "/",
+            "expires": 1772294484.360852,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "g",
+            "value": "e33deUWgyPIfB2jN03FY_1740758484122",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772294484.381346,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ts",
+            "value": "1740758484",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1772294484.381438,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "V",
+            "value": "TSivqru5zaeF",
+            "domain": ".contextweb.com",
+            "path": "/",
+            "expires": 1771862484.512834,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "VP",
+            "value": "part_TSivqru5zaeF",
+            "domain": ".contextweb.com",
+            "path": "/",
+            "expires": 1771862484.512925,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pb_rtb_ev",
+            "value": "3-1wqb|7Bj.0.CAESEKcFl_IGJRnJ--BFTJY3554",
+            "domain": ".contextweb.com",
+            "path": "/",
+            "expires": 1772294484.51299,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "pb_rtb_ev_part",
+            "value": "3-1wqb|7Bj.0.CAESEKcFl_IGJRnJ--BFTJY3554",
+            "domain": ".contextweb.com",
+            "path": "/",
+            "expires": 1772294484.51303,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "INGRESSCOOKIE",
+            "value": "ad6fa997764bf059",
+            "domain": "bh.contextweb.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.571586,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id",
+            "value": "s%3A0-ef8083eb-4f56-5b4e-7c29-a8075d143bbb.PdxYCmcBG53x9Cu6Nz1beiIwrnoKp54Kz8HkyZWzfLE",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.571683,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.571732,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v2",
+            "value": "s%3A74CD609WW058KagHXRQ7u5rAnCg.npldF36eRUzqdrCiTGALJzTDENQY8SotzB44846dVc8",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.57177,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyDUu4e-BjABOgQTJSkkQgRVG1r9.mT%2BGzHO3LzPxhDMys%2FedPBBKE%2B8R9jjoxxuI1REG0Nk",
+            "domain": "sync.srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.571803,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sa-user-id-v3",
+            "value": "s%3AAQAKILo5d2KhdWMNt2mEP3GPDJVx_9sNlvhY7f0XuJwekNgfEAEYAyDUu4e-BjABOgQTJSkkQgRVG1r9.mT%2BGzHO3LzPxhDMys%2FedPBBKE%2B8R9jjoxxuI1REG0Nk",
+            "domain": ".srv.stackadapt.com",
+            "path": "/",
+            "expires": 1772294484.571845,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "cid_502054748836429e80372ed8b2ef9e22",
+            "value": "1",
+            "domain": ".ctnsnet.com",
+            "path": "/",
+            "expires": 1772294486.282437,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "gid_CAESEGA5BRaC2QYnf03mshHgUs8",
+            "value": "1",
+            "domain": ".ctnsnet.com",
+            "path": "/",
+            "expires": 1772294486.28269,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ar_debug",
+            "value": "1",
+            "domain": ".googleadservices.com",
+            "path": "/",
+            "expires": 1748534520.000917,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ANON_ID",
+            "value": "aunoeUwl6hnbQQw9RCGaZbNJt5aVa5yNEL1GktNDQ",
+            "domain": ".tribalfusion.com",
+            "path": "/",
+            "expires": 1748534485.299812,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "mc",
+            "value": "67c1ddd5-49d02-60d74-0ec6d",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1774972885.432799,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "sp",
+            "value": "CggI2WUSAxDcDg==",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1748534485.432873,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "suid",
+            "value": "FA7F756E841841DD8CD1A4DFF3890F05",
+            "domain": ".simpli.fi",
+            "path": "/",
+            "expires": 1772380885.441947,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDID",
+            "value": "9f323b76-5d24-4d83-929e-12c2fb4f6def",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772294485.64027,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ab",
+            "value": "0001%3ASG6FpqT7Kt3i6xsBg65VIyqBVWLJjcAM",
+            "domain": ".agkn.com",
+            "path": "/",
+            "expires": 1772294485.511151,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "u",
+            "value": "C|0CEAvVJpVL1SaVQAAAAAAAQ13AQCAAQpAAAAAAA",
+            "domain": ".agkn.com",
+            "path": "/",
+            "expires": 1772294485.511271,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAESFQoGZ29vZ2xlEgsI5qzu-uWG7D0QBRgFIAEoAjILCI6ch6b8huw9EAU4AQ..",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1772294485.640334,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_pangle",
+            "value": "2tg0bxo9CfiqVjbNyd6HPGcYHL5",
+            "domain": ".pangle-ads.com",
+            "path": "/",
+            "expires": 1774454485.862292,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bitoIsSecure",
+            "value": "ok",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1774868486.044478,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "bito",
+            "value": "AAF8q07Pg7wAABZ_ofHItw",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1774868486.044353,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "A3",
+            "value": "d=AQABBNXdwWcCEKlYnG9wqGfpWZLgHF4ZkdoFEgEBAQEvw2fLZ9xW0iMA_eMAAA&S=AQAAApvyMD4QmJSRhvb1qJu1pZI",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1772316086.050361,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.883628340.1740758434",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775321554.693765,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_C8RQQ7NY18",
+            "value": "GS1.1.1740761554.2.1.1740761604.10.0.0",
+            "domain": ".codechef.com",
+            "path": "/",
+            "expires": 1775321604.057873,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.1122037699.1740761605",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321604.894695,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_theme",
+            "value": "gfgThemeLight",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321605.510769,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.503866413.1740761606",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1748537605,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "gfg_nluid",
+            "value": "3a5684f79a92bf627bd06a071ef520fc",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1772317406.885231,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_DWCCJLKX3X",
+            "value": "GS1.1.1740761604.1.1.1740761651.13.0.0",
+            "domain": ".geeksforgeeks.org",
+            "path": "/",
+            "expires": 1775321651.267044,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "fVDlJrfk9BLY.JOLFYNuMYyofMPJ10Gl75wzZZTwRyU-1740761651-1.0.1.1-lq6DQUpjBYDTqupqKoyL0as2JDirXl.QB0RfJ1IShWsq2wRFBewsx5hjM4BNTpbJIl3Iju9azn9C0JJ2c7vlSXyEkYBJC7_vFypc5e774xU",
+            "domain": ".snigelweb.com",
+            "path": "/",
+            "expires": 1740763451.424391,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_ga_9YNMTB56NB",
+            "value": "GS1.1.1740761653.1.0.1740761653.0.0.0",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321653.040476,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.1061606946.1740761653",
+            "domain": ".w3schools.com",
+            "path": "/",
+            "expires": 1775321653.041265,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "https://www.w3schools.com",
+            "localStorage": [
+                {
+                    "name": "preferredmode",
+                    "value": "null"
+                },
+                {
+                    "name": "snconsent_geo",
+                    "value": "eyJjb3VudHJ5IjoicGsiLCJyZWdpb24iOiJpcyJ9"
+                },
+                {
+                    "name": "snconsent_geo_exp",
+                    "value": "1740765252358"
+                },
+                {
+                    "name": "preferredpagemode",
+                    "value": "null"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.learnpython.org",
+            "localStorage": [
+                {
+                    "name": "google_adsense_settings",
+                    "value": "{\"ca-pub-3723950136133694\":[\"ca-pub-3723950136133694\",[[1]]]}"
+                },
+                {
+                    "name": "__lsv__",
+                    "value": "[1740758519475]"
+                },
+                {
+                    "name": "google_ama_config",
+                    "value": "[[[[null,1,null,[],null,null,\"DIV#main>DIV.row\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.clearfix\"],1,[\"10px\",\"16px\",1],[2],null,[],[],1,[],[]],[[null,12,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"NAV\"],4,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],1,[\"10px\",\"16px\",1],[3],null,[],[],1,[],[5]],[[null,7,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>DIV.bg-light>DIV.container-fluid.bg-light\"],1,[\"10px\",\"30px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#inner-text\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[5]],[[null,10,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],4,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"H1\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"DIV#inner-text>DIV.datacamp-exercise\"],1,[\"10px\",\"20px\",1],[1],null,[],[],1,[],[]]],[],[1740844882931],\"20250226_093558\",[],[[[[null,3,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,H3,LI,P\"]],[[null,1,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV#inner-text>OL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,null,null,[],null,null,\"DIV.clearfix\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,2,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]],[[null,2,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,0,null,[],null,null,\"DIV#inner-text>UL\"],[null,null,null,[],null,null,\"LI\"]],[[null,3,null,[],null,null,\"DIV#main>DIV.row>DIV.col>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"IMG,P\"]]]],[[null,[1,3,2],null,\"3514846746\",[],[],[0,2],null,null,[null,null,2,11,350,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1219059114],null,null,[1740744824562],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.codechef.com",
+            "localStorage": [
+                {
+                    "name": "li_adsId",
+                    "value": "3aaae3c4-fc95-41c6-9a42-3161488ef7a4"
+                }
+            ]
+        },
+        {
+            "origin": "https://learnpython-ads.datacamp.com",
+            "localStorage": [
+                {
+                    "name": "lastExternalReferrer",
+                    "value": "other"
+                },
+                {
+                    "name": "lastExternalReferrerTime",
+                    "value": "1740758481501"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.google.com",
+            "localStorage": [
+                {
+                    "name": "rc::h",
+                    "value": "1740758484037"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.geeksforgeeks.org",
+            "localStorage": [
+                {
+                    "name": "theme-mode",
+                    "value": "false"
+                }
+            ]
+        }
+    ]
+}

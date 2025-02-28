@@ -1,0 +1,147 @@
+[
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:52:29.280139",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:52:45.253096",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:52:45.263126",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:52:56.295857",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:53:04.020984",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:53:04.039544",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:53:17.963809",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": " Spaces"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:53:21.378579",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 54.814765
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:53:44.470107",
+        "site": "https://www.reddit.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.reddit.com"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:54:18.427344",
+        "site": "https://www.reddit.com",
+        "action": "error",
+        "details": {
+            "error": "ElementHandle.hover: Timeout 30000ms exceeded.\nCall log:\n  - attempting hover action\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <img height=\"40\" class=\"m-0\" aria-label=\"Google play\" alt=\"Get it on Google Play\" src=\"https://www.redditstatic.com/shreddit/assets/google-play.svg\"/> from <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 20ms\n  -     2 \u00d7 waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <img height=\"40\" class=\"m-0\" aria-label=\"Google play\" alt=\"Get it on Google Play\" src=\"https://www.redditstatic.com/shreddit/assets/google-play.svg\"/> from <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> subtree intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 100ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <img height=\"40\" class=\"m-0\" aria-label=\"Google play\" alt=\"Get it on Google Play\" src=\"https://www.redditstatic.com/shreddit/assets/google-play.svg\"/> from <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> subtree intercepts pointer events\n  -   6 \u00d7 retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <img width=\"200\" class=\"m-0\" height=\"200\" alt=\"QR code to download the Reddit app\" src=\"https://www.redditstatic.com/shreddit/assets/download-app-persistent-qr-codex2.png\"/> from <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> subtree intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying hover action\n  -       - waiting 500ms\n  -       - waiting for element to be visible and stable\n  -       - element is visible and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <img width=\"200\" class=\"m-0\" height=\"200\" alt=\"QR code to download the Reddit app\" src=\"https://www.redditstatic.com/shreddit/assets/download-app-persistent-qr-codex2.png\"/> from <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> subtree intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n  -     - waiting for element to be visible and stable\n  -     - element is visible and stable\n  -     - scrolling into view if needed\n  -     - done scrolling\n  -     - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -   - retrying hover action\n  -     - waiting 500ms\n"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:55:28.702957",
+        "site": "https://www.reddit.com",
+        "action": "error",
+        "details": {
+            "error": "ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n  -     2 \u00d7 waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying click action\n  -     - waiting 20ms\n  -     2 \u00d7 waiting for element to be visible, enabled and stable\n  -       - element is visible, enabled and stable\n  -       - scrolling into view if needed\n  -       - done scrolling\n  -       - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -     - retrying click action\n  -       - waiting 100ms\n  -     53 \u00d7 waiting for element to be visible, enabled and stable\n  -        - element is visible, enabled and stable\n  -        - scrolling into view if needed\n  -        - done scrolling\n  -        - <div class=\"rpl-dialog\" id=\"qr-code-modal-upsell\">\u2026</div> intercepts pointer events\n  -      - retrying click action\n  -        - waiting 500ms\n"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:55:28.716613",
+        "site": "https://www.reddit.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:55:31.644947",
+        "site": "https://www.reddit.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 130.252457
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:55:34.389362",
+        "site": "https://stackoverflow.com",
+        "action": "visited",
+        "details": {
+            "url": "https://stackoverflow.com"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:56:07.948654",
+        "site": "https://stackoverflow.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "5"
+        }
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:56:18.094998",
+        "site": "https://stackoverflow.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 1,
+        "timestamp": "2025-02-28T21:56:22.957565",
+        "site": "https://stackoverflow.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 51.276217
+        }
+    }
+]

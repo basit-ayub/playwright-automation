@@ -1,0 +1,143 @@
+[
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:52:30.432140",
+        "site": "https://www.codechef.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.codechef.com"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:52:39.463044",
+        "site": "https://www.codechef.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:52:50.447112",
+        "site": "https://www.codechef.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:02.636113",
+        "site": "https://www.codechef.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:09.813043",
+        "site": "https://www.codechef.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "More compilers"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:23.610392",
+        "site": "https://www.codechef.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 57.189108
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:26.189211",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.geeksforgeeks.org"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:38.833660",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:38.847537",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:53:53.219562",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:54:06.382603",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:54:10.920512",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 47.294103
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:54:11.849352",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:54:47.066620",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "AppML"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:55:26.590736",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {
+            "text": "What are C++ pointers?"
+        }
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:55:26.604756",
+        "site": "https://www.w3schools.com",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 5,
+        "timestamp": "2025-02-28T21:55:31.240039",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 80.304289
+        }
+    }
+]

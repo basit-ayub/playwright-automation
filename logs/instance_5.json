@@ -1,0 +1,114 @@
+[
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:52:29.163734",
+        "site": "https://www.w3schools.com",
+        "action": "visited",
+        "details": {
+            "url": "https://www.w3schools.com"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:52:41.337987",
+        "site": "https://www.w3schools.com",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:16.550790",
+        "site": "https://www.w3schools.com",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "DJANGO"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:20.839434",
+        "site": "https://www.w3schools.com",
+        "action": "time_spent",
+        "details": {
+            "seconds": 54.448864
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:22.285516",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.geeksforgeeks.org"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:31.602186",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:36.758369",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "Bootstrap"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:53:47.050226",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "hover",
+        "details": {
+            "tag": "A",
+            "text": "No text"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:54:30.525293",
+        "site": "https://www.geeksforgeeks.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 69.668855
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:54:35.581159",
+        "site": "https://www.learnpython.org",
+        "action": "visited",
+        "details": {
+            "url": "https://www.learnpython.org"
+        }
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:54:57.339986",
+        "site": "https://www.learnpython.org",
+        "action": "scroll",
+        "details": {}
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:55:37.543310",
+        "site": "https://www.learnpython.org",
+        "action": "typing",
+        "details": {}
+    },
+    {
+        "instance_number": 4,
+        "timestamp": "2025-02-28T21:55:40.035078",
+        "site": "https://www.learnpython.org",
+        "action": "time_spent",
+        "details": {
+            "seconds": 69.470155
+        }
+    }
+]
