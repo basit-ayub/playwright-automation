@@ -1,4 +1,4 @@
-##### PY DEV TEST BY ABDUL BASIT
+
 # Automated Browser Interaction Script Using Playwright
 
 ## Overview
